@@ -1,0 +1,7632 @@
+1
+00:00:00,000 --> 00:00:01,530
+halo halo teman-teman semua selamat
+
+2
+00:00:01,530 --> 00:00:03,419
+datang kembali di channel programing
+
+3
+00:00:03,419 --> 00:00:05,609
+Unpas bersama saya Sadiqah gali dan kali
+
+4
+00:00:05,609 --> 00:00:08,280
+ini kita kembali masuk ke playlist nobar
+
+5
+00:00:08,280 --> 00:00:10,679
+atau modding bareng dan kali ini kita di
+
+6
+00:00:10,679 --> 00:00:13,500
+episode ke-2 7 Kita akan ngoding barang
+
+7
+00:00:13,500 --> 00:00:15,299
+sesuatu yang banyak banget diminta oleh
+
+8
+00:00:15,299 --> 00:00:16,859
+teman-teman sekalian ya Jadi kita akan
+
+9
+00:00:16,859 --> 00:00:19,080
+membuat ulang modding bareng kita
+
+10
+00:00:19,080 --> 00:00:21,270
+episode 1 temen-temen Jadi kalau
+
+11
+00:00:21,270 --> 00:00:23,160
+temen-temen tahu di episode 1 ini kita
+
+12
+00:00:23,160 --> 00:00:25,560
+sudah membuat sebuah website portfolio
+
+13
+00:00:25,560 --> 00:00:28,349
+menggunakan bootstrap versi 3 tak kita
+
+14
+00:00:28,349 --> 00:00:30,779
+tahu saat ini kalau kita buka webnya
+
+15
+00:00:30,779 --> 00:00:33,630
+bootstrap itu yang default tampil adalah
+
+16
+00:00:33,630 --> 00:00:35,700
+bootstrap silima Nah jadi sampai
+
+17
+00:00:35,700 --> 00:00:37,160
+sekarang saya masih suka dapet
+
+18
+00:00:37,160 --> 00:00:38,370
+komentar-komentar atau
+
+19
+00:00:38,370 --> 00:00:39,989
+pertanyaan-pertanyaan dari kalian semua
+
+20
+00:00:39,989 --> 00:00:42,660
+ngikutin modding bareng pertama kita itu
+
+21
+00:00:42,660 --> 00:00:44,180
+katanya banyak yang mengalami kesulitan
+
+22
+00:00:44,180 --> 00:00:46,590
+dan apa yang disampaikan itu enggak
+
+23
+00:00:46,590 --> 00:00:48,539
+sesuai dengan apa yang dicoba itu memang
+
+24
+00:00:48,539 --> 00:00:50,250
+karena buah versi 5 itu cara
+
+25
+00:00:50,250 --> 00:00:52,350
+penulisannya sudah agak berbeda Nah jadi
+
+26
+00:00:52,350 --> 00:00:54,750
+beberapa metode yang kita gunakan dibuat
+
+27
+00:00:54,750 --> 00:00:57,629
+versi 3 di video pertama itu sudah bisa
+
+28
+00:00:57,629 --> 00:01:00,010
+dipakai lagi kalau kita pakai boot reply
+
+29
+00:01:00,010 --> 00:01:02,230
+terima ini sudah kali ini kita akan buat
+
+30
+00:01:02,230 --> 00:01:04,750
+kembali website portofolio tapi jauh
+
+31
+00:01:04,750 --> 00:01:06,159
+lebih keren lagi teman-teman yang akan
+
+32
+00:01:06,159 --> 00:01:08,649
+kita buat itu website seperti ini nah
+
+33
+00:01:08,649 --> 00:01:10,479
+disini teman teman bisa lihat websitenya
+
+34
+00:01:10,479 --> 00:01:12,670
+mirip dengan ngoding bareng episode
+
+35
+00:01:12,670 --> 00:01:14,890
+pertama kita ya dimana kita punya sebuah
+
+36
+00:01:14,890 --> 00:01:17,409
+navbar lalu kita punya jumbotron tapi di
+
+37
+00:01:17,409 --> 00:01:19,750
+sini kita tambahkan wife pada jumbo
+
+38
+00:01:19,750 --> 00:01:21,970
+turunnya ya kan kalau di ngobar versi
+
+39
+00:01:21,970 --> 00:01:23,830
+pertama itu garis lurus kalau sekarang
+
+40
+00:01:23,830 --> 00:01:26,500
+kita punya garis yang bergelombang Lalu
+
+41
+00:01:26,500 --> 00:01:30,100
+ada foto Ada Judul websitenya dan juga
+
+42
+00:01:30,100 --> 00:01:32,259
+ada tagline kalau kita Scroll ke bawah
+
+43
+00:01:32,259 --> 00:01:34,569
+kita punya about me kalau kita punya
+
+44
+00:01:34,569 --> 00:01:37,179
+gelombang lagi dan dibawahnya kita punya
+
+45
+00:01:37,179 --> 00:01:40,240
+daftar Project yang ceritanya dimiliki
+
+46
+00:01:40,240 --> 00:01:42,220
+oleh website ini atau dimiliki oleh
+
+47
+00:01:42,220 --> 00:01:44,200
+orang ini dan kalau kita Scroll lagi
+
+48
+00:01:44,200 --> 00:01:47,229
+kita punya desain dari forum kontak
+
+49
+00:01:47,229 --> 00:01:49,750
+gimana ceritanya nanti user yang datang
+
+50
+00:01:49,750 --> 00:01:52,000
+ke websitenya bisa mengisikan dan
+
+51
+00:01:52,000 --> 00:01:54,130
+mengirim pesan ke si pemilik websitenya
+
+52
+00:01:54,130 --> 00:01:56,440
+tapi sama seperti ngoding bareng kita
+
+53
+00:01:56,440 --> 00:01:59,440
+episode 1 ini for nya belum berfungsi
+
+54
+00:01:59,440 --> 00:02:00,020
+jadi hanya Tab
+
+55
+00:02:00,020 --> 00:02:01,939
+karena aja dan yang terakhir kita punya
+
+56
+00:02:01,939 --> 00:02:03,890
+bagian footer yang sudah menggunakan
+
+57
+00:02:03,890 --> 00:02:06,560
+icon milik Bodrex dan kalau kita klik
+
+58
+00:02:06,560 --> 00:02:09,830
+linknya ini udah otomatis kroll seperti
+
+59
+00:02:09,830 --> 00:02:13,550
+ini Bear menjadi itu websitenya gimana
+
+60
+00:02:13,550 --> 00:02:15,319
+Menurut kalian cukup keren ya jadi nanti
+
+61
+00:02:15,319 --> 00:02:16,940
+pembuatan website ini cocok banget buat
+
+62
+00:02:16,940 --> 00:02:19,190
+kalian yang baru belajar membuat website
+
+63
+00:02:19,190 --> 00:02:21,739
+kalian sudah tahu mengenai html dan CSS
+
+64
+00:02:21,739 --> 00:02:24,019
+Terus pengen membuat sebuah website yang
+
+65
+00:02:24,019 --> 00:02:26,090
+lengkap menggunakan bantuan bootstrap
+
+66
+00:02:26,090 --> 00:02:28,280
+versi 5 Tapi sebelum kita masuk ke
+
+67
+00:02:28,280 --> 00:02:30,110
+videonya tema ucapan terima kasih dulu
+
+68
+00:02:30,110 --> 00:02:32,329
+untuk sponsor kita pada video kita kali
+
+69
+00:02:32,329 --> 00:02:35,420
+ini yaitu hacktivate activated adalah
+
+70
+00:02:35,420 --> 00:02:36,849
+sebuah tempat pelatihan pemrograman
+
+71
+00:02:36,849 --> 00:02:39,459
+intensif pertama di Indonesia yang dapat
+
+72
+00:02:39,459 --> 00:02:41,720
+mentransformasi seorang pemula menjadi
+
+73
+00:02:41,720 --> 00:02:43,970
+programmer yang siap kerja di dalamnya
+
+74
+00:02:43,970 --> 00:02:45,530
+hacktivate memiliki program yang
+
+75
+00:02:45,530 --> 00:02:47,780
+dinamakan dengan verstek imersif dan
+
+76
+00:02:47,780 --> 00:02:50,660
+vostec Flex Polsek mersive adalah
+
+77
+00:02:50,660 --> 00:02:52,640
+program yang dirancang untuk para siswa
+
+78
+00:02:52,640 --> 00:02:54,349
+yang ingin belajar menguasai skill
+
+79
+00:02:54,349 --> 00:02:57,049
+pemrograman dalam waktu 16minggu disini
+
+80
+00:02:57,049 --> 00:02:58,910
+siswa akan belajar secara fokus dan
+
+81
+00:02:58,910 --> 00:03:00,030
+intensif dengan
+
+82
+00:03:00,030 --> 00:03:02,370
+file office hour nah sementara kalian
+
+83
+00:03:02,370 --> 00:03:04,110
+yang ingin belajar tapi tetap sambil
+
+84
+00:03:04,110 --> 00:03:05,490
+bekerja tanpa harus meninggalkan
+
+85
+00:03:05,490 --> 00:03:07,830
+kesibukan kalian bisa memilih program
+
+86
+00:03:07,830 --> 00:03:10,080
+fullstack Flex dimana disini kalian bisa
+
+87
+00:03:10,080 --> 00:03:11,880
+lebih fleksibel memilih jadwal yang
+
+88
+00:03:11,880 --> 00:03:13,620
+tersedia untuk mendapatkan pembelajaran
+
+89
+00:03:13,620 --> 00:03:16,350
+yang sama seperti program Polsek imersif
+
+90
+00:03:16,350 --> 00:03:19,140
+tapi dengan waktu 30 minggu kedua
+
+91
+00:03:19,140 --> 00:03:21,290
+program ini memiliki dua fase yaitu fase
+
+92
+00:03:21,290 --> 00:03:23,550
+preparation untuk belajar dasar
+
+93
+00:03:23,550 --> 00:03:25,170
+pemrograman sehingga kalian gak perlu
+
+94
+00:03:25,170 --> 00:03:27,420
+khawatir kalau misalnya kalian ga punya
+
+95
+00:03:27,420 --> 00:03:29,400
+latar belakang ID karena bakalan
+
+96
+00:03:29,400 --> 00:03:31,410
+diajarin dari dasar Nah setelah itu
+
+97
+00:03:31,410 --> 00:03:33,660
+lanjut kVA Sebutkan untuk mempelajari
+
+98
+00:03:33,660 --> 00:03:35,820
+hardskill dan softskill untuk menjadi
+
+99
+00:03:35,820 --> 00:03:37,620
+seorang full stack developer dengan
+
+100
+00:03:37,620 --> 00:03:39,450
+dibimbing oleh instruktur profesional
+
+101
+00:03:39,450 --> 00:03:42,180
+dan fasilitas-fasilitas intensif lainnya
+
+102
+00:03:42,180 --> 00:03:44,400
+seperti Won mentoring dan engineering
+
+103
+00:03:44,400 --> 00:03:46,769
+MP3 setelah lulus dari program ini
+
+104
+00:03:46,769 --> 00:03:48,420
+nantinya kalian akan mendapatkan
+
+105
+00:03:48,420 --> 00:03:50,640
+relation untuk mempersiapkan karir
+
+106
+00:03:50,640 --> 00:03:53,010
+kalian kedepannya dan kerennya lagi para
+
+107
+00:03:53,010 --> 00:03:54,870
+siswa juga nanti akan dibantu untuk
+
+108
+00:03:54,870 --> 00:03:57,989
+mencari kerja di 250 perusahaan hair
+
+109
+00:03:57,989 --> 00:04:00,010
+yang partner nya hacktivate biaya
+
+110
+00:04:00,010 --> 00:04:02,080
+cara mengikuti program fullsek immersive
+
+111
+00:04:02,080 --> 00:04:04,689
+itu sebesar 40 juta Sedangkan untuk
+
+112
+00:04:04,689 --> 00:04:07,870
+program fostex Lex Itu sebesar 45000000
+
+113
+00:04:07,870 --> 00:04:09,269
+nah tapi kalian gak perlu khawatir
+
+114
+00:04:09,269 --> 00:04:11,650
+hacktivate menawarkan beberapa metode
+
+115
+00:04:11,650 --> 00:04:14,019
+pembayaran untuk mempermudah Kalian ada
+
+116
+00:04:14,019 --> 00:04:15,909
+metode regular dimana kalian bisa
+
+117
+00:04:15,909 --> 00:04:18,100
+membagi pembayaran ke dalam dua tahap
+
+118
+00:04:18,100 --> 00:04:20,289
+Lalu ada metode hisab atau income
+
+119
+00:04:20,289 --> 00:04:22,029
+sharing agreement dimana kalian bisa
+
+120
+00:04:22,029 --> 00:04:23,919
+melakukan pembayarannya Setelah kalian
+
+121
+00:04:23,919 --> 00:04:26,500
+diterima kerja dan mendapatkan gaji dan
+
+122
+00:04:26,500 --> 00:04:28,330
+yang ketiga adalah program pembayaran
+
+123
+00:04:28,330 --> 00:04:30,760
+melalui laun partner yang bisa dicicil
+
+124
+00:04:30,760 --> 00:04:32,800
+setelah kalian lulus bahkan bisa juga
+
+125
+00:04:32,800 --> 00:04:34,960
+baru akan dicicil setelah kalian sudah
+
+126
+00:04:34,960 --> 00:04:36,880
+mendapatkan pekerjaan jadi kalau kalian
+
+127
+00:04:36,880 --> 00:04:38,199
+tertarik untuk bergabung di hacktiv8
+
+128
+00:04:38,199 --> 00:04:40,240
+Pasa wajah klik Link yang ada di
+
+129
+00:04:40,240 --> 00:04:42,010
+deskripsi video ini untuk informasi
+
+130
+00:04:42,010 --> 00:04:43,870
+lebih lanjut dan kalau kalian nonton
+
+131
+00:04:43,870 --> 00:04:46,000
+video ini sampai akhir nanti bakalan ada
+
+132
+00:04:46,000 --> 00:04:48,250
+promo spesial hacktivate untuk program
+
+133
+00:04:48,250 --> 00:04:50,680
+ini jadi jangan script videonya ya Mari
+
+134
+00:04:50,680 --> 00:04:52,510
+wujudkan karir kalian sebagai programmer
+
+135
+00:04:52,510 --> 00:04:55,539
+bersama hacktivate oke teman-teman ya
+
+136
+00:04:55,539 --> 00:04:57,070
+Jadi sekarang kita bisa langsung masuk
+
+137
+00:04:57,070 --> 00:04:58,900
+ke videonya Oh ya Dan kalau kalian mau
+
+138
+00:04:58,900 --> 00:05:00,020
+skip skip videonya
+
+139
+00:05:00,020 --> 00:05:02,330
+sudah sediakan tim step atau chapter
+
+140
+00:05:02,330 --> 00:05:04,129
+untuk mempermudah kalian kalau kalian
+
+141
+00:05:04,129 --> 00:05:06,139
+udah siap Mari kita mulai Oke
+
+142
+00:05:06,139 --> 00:05:08,120
+teman-teman sudah siap ya Jadi yang
+
+143
+00:05:08,120 --> 00:05:09,590
+pertama harus kalian lakukan adalah
+
+144
+00:05:09,590 --> 00:05:12,319
+silakan buka dulu dokumentasi dari
+
+145
+00:05:12,319 --> 00:05:14,060
+Framework bootstrap yang akan kita
+
+146
+00:05:14,060 --> 00:05:15,979
+gunakan mengemban boleh kunjungi
+
+147
+00:05:15,979 --> 00:05:19,159
+websitenya namanya getbootstrap.com ya
+
+148
+00:05:19,159 --> 00:05:20,750
+kita pelajari dulu sedikit mengenai
+
+149
+00:05:20,750 --> 00:05:22,879
+websitenya Nah jadi bootstrap ini
+
+150
+00:05:22,879 --> 00:05:25,039
+orang-orang bilangnya sebagai CSS
+
+151
+00:05:25,039 --> 00:05:26,449
+Framework dan dimana sebenarnya
+
+152
+00:05:26,449 --> 00:05:28,940
+Framework ini mempermudah kita sebagai
+
+153
+00:05:28,940 --> 00:05:31,490
+web developer untuk membuat Website Nah
+
+154
+00:05:31,490 --> 00:05:33,319
+remok ini bisa digunakan untuk kita yang
+
+155
+00:05:33,319 --> 00:05:35,750
+baru belajar ataupun yang sudah expert
+
+156
+00:05:35,750 --> 00:05:37,729
+sekalipun ya untuk yang baru belajar ini
+
+157
+00:05:37,729 --> 00:05:39,620
+bisa mempermudah kita karena kita tidak
+
+158
+00:05:39,620 --> 00:05:42,199
+perlu menuliskan banyak html ataupun
+
+159
+00:05:42,199 --> 00:05:44,569
+banyak CSS untuk membuat Website kita
+
+160
+00:05:44,569 --> 00:05:46,759
+karena semuanya itu udah dibikinin di
+
+161
+00:05:46,759 --> 00:05:48,349
+dalam bus rap kita tinggal pakai aja
+
+162
+00:05:48,349 --> 00:05:50,509
+kita tinggal copy paste dan kita tinggal
+
+163
+00:05:50,509 --> 00:05:52,969
+memanggil beberapa kelas yang memang
+
+164
+00:05:52,969 --> 00:05:54,680
+dibutuhkan ya walaupun tetap aja
+
+165
+00:05:54,680 --> 00:05:57,050
+pemahaman mengenai html dan CSS itu
+
+166
+00:05:57,050 --> 00:05:59,090
+tetap harus kalian miliki ya Jadi saran
+
+167
+00:05:59,090 --> 00:06:00,030
+saya buat kalian yang baru
+
+168
+00:06:00,030 --> 00:06:02,460
+nonton dan pengen membuat website
+
+169
+00:06:02,460 --> 00:06:04,590
+pelajari dulu deh playlist mengenai html
+
+170
+00:06:04,590 --> 00:06:07,290
+dan CSS di channel ini baru kita
+
+171
+00:06:07,290 --> 00:06:09,540
+lanjutkan lagi belajarnya bus Arabnya
+
+172
+00:06:09,540 --> 00:06:11,220
+ngebuat kalian yang udah paham mengenai
+
+173
+00:06:11,220 --> 00:06:13,350
+html CSS Framework ini bisa kalian
+
+174
+00:06:13,350 --> 00:06:15,240
+gunakan untuk mempercepat proses
+
+175
+00:06:15,240 --> 00:06:17,250
+pembuatan websitenya kita mengatur lagi
+
+176
+00:06:17,250 --> 00:06:19,410
+nulisin banyak baris-baris kode cukup
+
+177
+00:06:19,410 --> 00:06:21,420
+Panggil kelas yang dibutuhkan apalagi
+
+178
+00:06:21,420 --> 00:06:23,490
+nanti ketika kita mau bikin lay-out ya
+
+179
+00:06:23,490 --> 00:06:25,320
+tinggal panggil-panggil kelas saja lalu
+
+180
+00:06:25,320 --> 00:06:27,510
+tampilannya sudah keren gitu ya bahkan
+
+181
+00:06:27,510 --> 00:06:29,400
+sudah responsif yang kalian lihat
+
+182
+00:06:29,400 --> 00:06:32,100
+sekarang ini adalah bootstrap versi 5
+
+183
+00:06:32,100 --> 00:06:34,110
+ayat default menemaninya di channel kita
+
+184
+00:06:34,110 --> 00:06:36,930
+itu udah ada tutorial pembuatan website
+
+185
+00:06:36,930 --> 00:06:39,300
+menggunakan bootstrap versi 3 dan
+
+186
+00:06:39,300 --> 00:06:41,550
+bootstrap versi 4 ini versi yang saat
+
+187
+00:06:41,550 --> 00:06:43,380
+ini paling baru ya Jadi kalau kalian
+
+188
+00:06:43,380 --> 00:06:45,390
+buka otomatis kalian diarahkan ke
+
+189
+00:06:45,390 --> 00:06:47,850
+dokumentasi untuk versi 5 tapi kalau
+
+190
+00:06:47,850 --> 00:06:49,350
+misalkan kalian pengin lihat dokumentasi
+
+191
+00:06:49,350 --> 00:06:51,840
+versi sebelumnya tetap bisa ya Di sini
+
+192
+00:06:51,840 --> 00:06:54,720
+ada link ke Persib sempat bahkan
+
+193
+00:06:54,720 --> 00:06:57,210
+versi-versi sebelumnya itu ya Nah
+
+194
+00:06:57,210 --> 00:06:58,770
+sekarang sebelum kita mulai masuk ya
+
+195
+00:06:58,770 --> 00:07:00,009
+kita akan lihat dulu cara
+
+196
+00:07:00,009 --> 00:07:01,990
+kegunaan dokumentasinya diserang saya
+
+197
+00:07:01,990 --> 00:07:04,229
+nanti selama kita membuat website ini
+
+198
+00:07:04,229 --> 00:07:06,759
+dokumentasinya Jangan di close ketiak
+
+199
+00:07:06,759 --> 00:07:07,869
+karena kita akan sering banget
+
+200
+00:07:07,869 --> 00:07:09,460
+bolak-balik ngelihat dokumentasinya
+
+201
+00:07:09,460 --> 00:07:12,009
+kalian klik Dogs di atas ini nanti di
+
+202
+00:07:12,009 --> 00:07:13,770
+sini kalian bisa lihat banyak sekali
+
+203
+00:07:13,770 --> 00:07:16,659
+dokumentasi dan Cara pakainya kita nanti
+
+204
+00:07:16,659 --> 00:07:18,639
+hanya akan menggunakan beberapa dari
+
+205
+00:07:18,639 --> 00:07:20,589
+menu ini aja sekarang menunya udah enak
+
+206
+00:07:20,589 --> 00:07:22,270
+banget ya dilihatnya kita bisa lihat
+
+207
+00:07:22,270 --> 00:07:25,449
+kalau mau dieting started kita bisa coba
+
+208
+00:07:25,449 --> 00:07:27,669
+kalau mau mengcustom nice bahkan isi
+
+209
+00:07:27,669 --> 00:07:29,319
+dari bootstrap nya kita bisa lihat di
+
+210
+00:07:29,319 --> 00:07:31,839
+sini HPnya itu TOPIK untuk video yang
+
+211
+00:07:31,839 --> 00:07:33,639
+lain ya karena ini cukup advansia
+
+212
+00:07:33,639 --> 00:07:35,620
+penggunaannya Nah kita dia akan fokus di
+
+213
+00:07:35,620 --> 00:07:38,559
+bagian lay-out konten forms dan
+
+214
+00:07:38,559 --> 00:07:40,539
+komponennya saja jadi ini mempermudah
+
+215
+00:07:40,539 --> 00:07:42,490
+kita misalnya suatu saat kita pengen
+
+216
+00:07:42,490 --> 00:07:44,529
+bikin sesuatu yang disebut dengan Alex
+
+217
+00:07:44,529 --> 00:07:47,080
+website kalian ingin menampilkan sebuah
+
+218
+00:07:47,080 --> 00:07:49,389
+komponen untuk informasi penting
+
+219
+00:07:49,389 --> 00:07:50,770
+misalnya ya Nah kalian bisa Klik
+
+220
+00:07:50,770 --> 00:07:53,559
+komponen terus Alex nanti di sini udah
+
+221
+00:07:53,559 --> 00:07:55,270
+muncul Tuh template ya kalau pengen
+
+222
+00:07:55,270 --> 00:07:57,759
+bikin ini caranya gimana cukup copy kan
+
+223
+00:07:57,759 --> 00:08:00,020
+aja beberapa baris html ini
+
+224
+00:08:00,020 --> 00:08:02,660
+ke web kalian Anda otomatis jadi deh
+
+225
+00:08:02,660 --> 00:08:05,660
+seperti ini sebetulnya kalau kalian udah
+
+226
+00:08:05,660 --> 00:08:07,580
+paham matte matches ini bisa kalian
+
+227
+00:08:07,580 --> 00:08:10,129
+bikin manual satu persatu bikin sebuah
+
+228
+00:08:10,129 --> 00:08:12,620
+dive misalnya lalu kita kasih style kita
+
+229
+00:08:12,620 --> 00:08:14,900
+kasih lebar kita kasih pending kita
+
+230
+00:08:14,900 --> 00:08:17,840
+bikin sudutnya tumpul cukup banyak CSS
+
+231
+00:08:17,840 --> 00:08:19,250
+yang harus ditulis tapi dengan bootstrap
+
+232
+00:08:19,250 --> 00:08:21,500
+ini kalian tinggal copy langsung alat
+
+233
+00:08:21,500 --> 00:08:23,930
+ini pada di halaman web kalian itu ya
+
+234
+00:08:23,930 --> 00:08:25,280
+temen-temennya nanti kita Lihatlah Cara
+
+235
+00:08:25,280 --> 00:08:27,490
+pakainya ya Nah sekarang kita lihat
+
+236
+00:08:27,490 --> 00:08:29,780
+struktur dari website yang akan kita
+
+237
+00:08:29,780 --> 00:08:31,340
+buat Nanti ini Kebetulan saya sudah
+
+238
+00:08:31,340 --> 00:08:33,740
+punya Mock Up nya temen-temen ya Jadi
+
+239
+00:08:33,740 --> 00:08:35,419
+ini adalah mokap dari website yang akan
+
+240
+00:08:35,419 --> 00:08:37,219
+kita buat ini mau kapnya kalau
+
+241
+00:08:37,219 --> 00:08:38,570
+teman-teman ada yang nanya saya bikin
+
+242
+00:08:38,570 --> 00:08:40,070
+menggunakan software yang namanya fight
+
+243
+00:08:40,070 --> 00:08:41,958
+Maya jadi untuk membuat rancangan
+
+244
+00:08:41,958 --> 00:08:43,789
+website bisa pakai software yang namanya
+
+245
+00:08:43,789 --> 00:08:46,190
+fitnah silahkan di-share saja website
+
+246
+00:08:46,190 --> 00:08:48,200
+kita akan terdiri dari beberapa komponen
+
+247
+00:08:48,200 --> 00:08:50,540
+nanti kita akan buat satu persatu dari
+
+248
+00:08:50,540 --> 00:08:53,270
+atas yang pertama website Kita akan
+
+249
+00:08:53,270 --> 00:08:56,450
+punya sebuah navigasi di atas ini
+
+250
+00:08:56,450 --> 00:08:57,829
+bootstrap nyebutnya namanya
+
+251
+00:08:57,829 --> 00:09:00,030
+navbar-header amravers ini
+
+252
+00:09:00,030 --> 00:09:01,920
+kedua komponen yang pertama di sebelah
+
+253
+00:09:01,920 --> 00:09:04,200
+kiri nanti kita simpan dengan nama brand
+
+254
+00:09:04,200 --> 00:09:06,720
+kita ya boleh nama kita nama perusahaan
+
+255
+00:09:06,720 --> 00:09:08,790
+kita boleh diganti juga dengan logo
+
+256
+00:09:08,790 --> 00:09:12,120
+nanti terus di sebelah kanannya ada link
+
+257
+00:09:12,120 --> 00:09:14,790
+navigasinya untuk menavigasi kita ke
+
+258
+00:09:14,790 --> 00:09:17,640
+berbagai bagian dari halamannya Jadi
+
+259
+00:09:17,640 --> 00:09:19,200
+kalau misalkan nanti kita punya misalkan
+
+260
+00:09:19,200 --> 00:09:22,560
+ada home ada about me ada project
+
+261
+00:09:22,560 --> 00:09:24,570
+misalnya Project yang kita buat dan
+
+262
+00:09:24,570 --> 00:09:26,520
+kontak begitu kita Klik langsung
+
+263
+00:09:26,520 --> 00:09:29,880
+berpindah ke bagian-bagian yang spesifik
+
+264
+00:09:29,880 --> 00:09:31,830
+gitu ya ini bagian pertama akan kita
+
+265
+00:09:31,830 --> 00:09:34,380
+buat bagian kedua di tengah ini ini
+
+266
+00:09:34,380 --> 00:09:36,570
+sebelumnya busted menyebutnya jumbotron
+
+267
+00:09:36,570 --> 00:09:39,390
+ya tapi dibuat versi 5 ini komponen
+
+268
+00:09:39,390 --> 00:09:41,670
+jumbotron sudah tidak ada tapi nggak
+
+269
+00:09:41,670 --> 00:09:43,020
+papa nanti kita akan tetep buat
+
+270
+00:09:43,020 --> 00:09:44,970
+seolah-olah menjadi jumbotron atau
+
+271
+00:09:44,970 --> 00:09:47,130
+istilah lainnya ini adalah hero section
+
+272
+00:09:47,130 --> 00:09:49,740
+ya jadi sebuah bagian atau section yang
+
+273
+00:09:49,740 --> 00:09:51,990
+pertama kali dilihat oleh usernya
+
+274
+00:09:51,990 --> 00:09:55,380
+didalamnya Akan terdapat foto-foto kita
+
+275
+00:09:55,380 --> 00:09:57,480
+akan ini website portofolio yah website
+
+276
+00:09:57,480 --> 00:09:59,430
+pribadi kita nanti kalian Simpan fotonya
+
+277
+00:09:59,430 --> 00:10:00,010
+Disini
+
+278
+00:10:00,010 --> 00:10:02,080
+di dari sekarang Coba Siapkan foto
+
+279
+00:10:02,080 --> 00:10:03,790
+terbaik kalian ukurannya enggak usah
+
+280
+00:10:03,790 --> 00:10:05,680
+terlalu besar nanti kita simpan di sini
+
+281
+00:10:05,680 --> 00:10:07,510
+terus dibawa ya nanti kita tulis nama
+
+282
+00:10:07,510 --> 00:10:09,790
+kita atau nama perusahaan kita harus
+
+283
+00:10:09,790 --> 00:10:12,760
+dibawahnya ada tagline kecil Ayah untuk
+
+284
+00:10:12,760 --> 00:10:14,950
+ngasih tahu siapa sih kita itu ya Ini
+
+285
+00:10:14,950 --> 00:10:17,050
+bagian kedua selanjutnya di bawah ada
+
+286
+00:10:17,050 --> 00:10:19,480
+bagian about me atau About Us kalau
+
+287
+00:10:19,480 --> 00:10:21,220
+perusahaannya ada disini kita akan bikin
+
+288
+00:10:21,220 --> 00:10:24,820
+judulnya dan juga ada paragraf 2 buah
+
+289
+00:10:24,820 --> 00:10:26,440
+paragraf untuk menjelaskan secara
+
+290
+00:10:26,440 --> 00:10:28,960
+singkat siapa diri kita atau perusahaan
+
+291
+00:10:28,960 --> 00:10:31,210
+kita ya ini komponen ketiga teman-teman
+
+292
+00:10:31,210 --> 00:10:33,430
+atau bagian ketiga kita sebutnya bagian
+
+293
+00:10:33,430 --> 00:10:35,530
+karena nanti namanya adalah section next
+
+294
+00:10:35,530 --> 00:10:38,590
+di bawahnya ada ini saya sebutnya bagian
+
+295
+00:10:38,590 --> 00:10:41,200
+Project ya teman-teman boleh bikin
+
+296
+00:10:41,200 --> 00:10:43,690
+bagian ini jadi galeri ya jadi disini
+
+297
+00:10:43,690 --> 00:10:45,850
+ceritanya project-project apa aja sih
+
+298
+00:10:45,850 --> 00:10:47,740
+yang pernah dibuat oleh Yang Punya
+
+299
+00:10:47,740 --> 00:10:49,570
+website ini yang oleh punya websitenya
+
+300
+00:10:49,570 --> 00:10:51,280
+adalah seorang web developer henti
+
+301
+00:10:51,280 --> 00:10:53,140
+dilihatin website yang pernah dia buat
+
+302
+00:10:53,140 --> 00:10:55,000
+kalian punya web ini adalah fotografer
+
+303
+00:10:55,000 --> 00:10:56,770
+misalnya nanti akan menampilkan
+
+304
+00:10:56,770 --> 00:10:58,930
+foto-foto terbaiknya ini sini saya
+
+305
+00:10:58,930 --> 00:11:00,019
+Gambarkan ada tiga
+
+306
+00:11:00,019 --> 00:11:02,209
+akan ada gambar dan juga captionnya
+
+307
+00:11:02,209 --> 00:11:04,069
+ceritanya ya atau penjelasan dari
+
+308
+00:11:04,069 --> 00:11:06,110
+gambarnya siapkan aja teman-teman 5
+
+309
+00:11:06,110 --> 00:11:07,489
+gambar atau nanti kita cari
+
+310
+00:11:07,489 --> 00:11:09,410
+bareng-bareng lah gambar yang bisa kita
+
+311
+00:11:09,410 --> 00:11:11,929
+pakai itu bagian keempat bagian kelima
+
+312
+00:11:11,929 --> 00:11:14,600
+ini kita sebutnya bagian atau section
+
+313
+00:11:14,600 --> 00:11:17,209
+contact me atau contact us Ya jadi
+
+314
+00:11:17,209 --> 00:11:19,040
+ceritanya kalau misalkan ada user yang
+
+315
+00:11:19,040 --> 00:11:21,110
+mampir ke website kita terus pengen
+
+316
+00:11:21,110 --> 00:11:23,509
+menggunakan jasa kita atau pengen
+
+317
+00:11:23,509 --> 00:11:25,339
+mengirimkan pesan ke kita Nanti kita
+
+318
+00:11:25,339 --> 00:11:27,769
+sediakan formia walaupun saat ini for
+
+319
+00:11:27,769 --> 00:11:29,360
+nya belum kita bikin jalan yang
+
+320
+00:11:29,360 --> 00:11:30,829
+mengganti di video terpisah kita akan
+
+321
+00:11:30,829 --> 00:11:33,439
+bikin supaya formia bisa dikirim dan
+
+322
+00:11:33,439 --> 00:11:35,360
+yang terakhir kita punya bagian yang
+
+323
+00:11:35,360 --> 00:11:37,459
+namanya futher key simpel aja nanti kita
+
+324
+00:11:37,459 --> 00:11:39,199
+ke kasih tulisan sedikit di dalam
+
+325
+00:11:39,199 --> 00:11:41,149
+footernya jadi sekali lagi kalau
+
+326
+00:11:41,149 --> 00:11:43,220
+misalkan saya perkecil website kita
+
+327
+00:11:43,220 --> 00:11:44,809
+hanya segini teman-teman enggak terlalu
+
+328
+00:11:44,809 --> 00:11:46,879
+banyak tapi kira-kira sudah cukup untuk
+
+329
+00:11:46,879 --> 00:11:49,579
+merepresentasikan Website folio CBA
+
+330
+00:11:49,579 --> 00:11:51,230
+temen-temennya jadi ini udah udah
+
+331
+00:11:51,230 --> 00:11:52,879
+kebayang nanti kita bakalan bikin apa
+
+332
+00:11:52,879 --> 00:11:55,189
+kalau misalkan temen mau mau KPI nih
+
+333
+00:11:55,189 --> 00:11:57,499
+nanti saya sertakan di kolom deskripsi
+
+334
+00:11:57,499 --> 00:11:58,939
+teman-teman bisa cari aja link
+
+335
+00:11:58,939 --> 00:12:00,030
+downloadnya untuk
+
+336
+00:12:00,030 --> 00:12:03,480
+lebih f oke sekelas dulu Selanjutnya apa
+
+337
+00:12:03,480 --> 00:12:05,370
+nih kita belum makan ngoding ya
+
+338
+00:12:05,370 --> 00:12:06,840
+teman-temannya sebelum modding tentu
+
+339
+00:12:06,840 --> 00:12:08,700
+saja kita harus siapkan dulu software
+
+340
+00:12:08,700 --> 00:12:10,680
+untuk codingnya nah yang akan kita
+
+341
+00:12:10,680 --> 00:12:14,130
+gunakan adalah sebuah kode editor yang
+
+342
+00:12:14,130 --> 00:12:17,070
+namanya Visual Studio code jadi
+
+343
+00:12:17,070 --> 00:12:18,660
+teman-teman bisa kunjungi websitenya
+
+344
+00:12:18,660 --> 00:12:20,850
+buat yang belum punya ya bisa kunjungi
+
+345
+00:12:20,850 --> 00:12:23,870
+website teknik kode titik
+
+346
+00:12:23,870 --> 00:12:26,640
+visualstudio.com silahkan kunjungi
+
+347
+00:12:26,640 --> 00:12:28,950
+websitenya terus di-download aja sesuai
+
+348
+00:12:28,950 --> 00:12:30,510
+dengan sistem operasi teman-teman
+
+349
+00:12:30,510 --> 00:12:32,490
+masing-masing walaupun punya Microsoft
+
+350
+00:12:32,490 --> 00:12:36,360
+tapi dia menyediakan installer untuk
+
+351
+00:12:36,360 --> 00:12:39,150
+semua sistem operasi lah ada Mac OS ada
+
+352
+00:12:39,150 --> 00:12:42,030
+Windows dan ada Lennox Jadi silakan
+
+353
+00:12:42,030 --> 00:12:43,590
+teman-teman pakai os-nya apa di-download
+
+354
+00:12:43,590 --> 00:12:45,200
+supaya nanti kita bareng-bareng
+
+355
+00:12:45,200 --> 00:12:47,520
+bener-bener dari awal bikinnya yah
+
+356
+00:12:47,520 --> 00:12:49,590
+Silahkan didownload dulu Nah kalau sudah
+
+357
+00:12:49,590 --> 00:12:52,730
+bisa geser kesini kembali kita buka lagi
+
+358
+00:12:52,730 --> 00:12:55,050
+websites Arabnya Jadi yang pertama kali
+
+359
+00:12:55,050 --> 00:12:57,110
+akan kita lakukan adalah kita akan
+
+360
+00:12:57,110 --> 00:13:00,010
+menuliskan script dasarnya
+
+361
+00:13:00,010 --> 00:13:02,410
+Hai nah script dasarnya itu ada di
+
+362
+00:13:02,410 --> 00:13:04,870
+bagian getting started Jadi kalian bisa
+
+363
+00:13:04,870 --> 00:13:07,510
+ke clickjacking started langsung masuk
+
+364
+00:13:07,510 --> 00:13:10,060
+ke introduction Nah di sini kalian bisa
+
+365
+00:13:10,060 --> 00:13:13,210
+Scroll kebawah cari yang namanya starter
+
+366
+00:13:13,210 --> 00:13:16,270
+template jadi ini adalah template dasar
+
+367
+00:13:16,270 --> 00:13:19,060
+yang harus kalian simpan di html kalian
+
+368
+00:13:19,060 --> 00:13:21,340
+sebelum kita menuliskan apapun yang
+
+369
+00:13:21,340 --> 00:13:23,350
+kalian bisa Blok aja atau Nanti kalian
+
+370
+00:13:23,350 --> 00:13:25,900
+bisa Klik tombol copy yang ada di sini
+
+371
+00:13:25,900 --> 00:13:27,490
+tapi sebelumnya kan kita harus punya
+
+372
+00:13:27,490 --> 00:13:29,140
+dulu file-nya ya kita akan bikin
+
+373
+00:13:29,140 --> 00:13:30,610
+bareng-bareng temen-temen Jadi sekarang
+
+374
+00:13:30,610 --> 00:13:32,560
+saya minta teman-teman Arahkan ke
+
+375
+00:13:32,560 --> 00:13:35,020
+desktop teman-teman masing-masing kita
+
+376
+00:13:35,020 --> 00:13:37,600
+akan bikin sebuah folder baru ya silakan
+
+377
+00:13:37,600 --> 00:13:39,580
+bikin folder aja kita kasih nama
+
+378
+00:13:39,580 --> 00:13:43,150
+foldernya adalah portfolio desain atau
+
+379
+00:13:43,150 --> 00:13:47,140
+minus bootstrap 5 nih teman-teman yang
+
+380
+00:13:47,140 --> 00:13:50,590
+portfolio bootstrap lima oke nah kalau
+
+381
+00:13:50,590 --> 00:13:52,540
+kalian nonton video ini dan sekarang
+
+382
+00:13:52,540 --> 00:13:54,730
+membuka website bootstrap nya udah
+
+383
+00:13:54,730 --> 00:13:57,100
+enggak versi 5 lagi namun pastikan dulu
+
+384
+00:13:57,100 --> 00:14:00,019
+apakah berubah jadi versi 5 koma berapa
+
+385
+00:14:00,019 --> 00:14:02,899
+atau jadi versi 6 kalau jadi 5,8
+
+386
+00:14:02,899 --> 00:14:04,220
+tutorial ini masih bisa digunakan
+
+387
+00:14:04,220 --> 00:14:06,079
+temen-temen tapi begitu berubah jadi
+
+388
+00:14:06,079 --> 00:14:08,749
+bootstrap versi 6 Ada kemungkinan tidak
+
+389
+00:14:08,749 --> 00:14:10,309
+sama hasilnya dengan yang akan kalian
+
+390
+00:14:10,309 --> 00:14:12,259
+lihat oke nah sekarang kalau udah
+
+391
+00:14:12,259 --> 00:14:15,499
+dibikin kita akan buka Visual Studio
+
+392
+00:14:15,499 --> 00:14:17,540
+code kita tidak teman-teman boleh buka
+
+393
+00:14:17,540 --> 00:14:20,089
+aja Visual Studio code nya sekarang
+
+394
+00:14:20,089 --> 00:14:22,279
+kalau sudah dibuka kita akan Buka folder
+
+395
+00:14:22,279 --> 00:14:24,110
+yang sudah kita buat tadi desktop
+
+396
+00:14:24,110 --> 00:14:26,209
+caranya kalian bisa Klik file lalu pilih
+
+397
+00:14:26,209 --> 00:14:29,029
+Open atau Open folder ya kalau
+
+398
+00:14:29,029 --> 00:14:30,589
+teman-teman yang di Windows pasti ada
+
+399
+00:14:30,589 --> 00:14:32,899
+tulisannya Open folder nah boleh dibuka
+
+400
+00:14:32,899 --> 00:14:35,869
+aja klik Open folder terus Arahkan ke
+
+401
+00:14:35,869 --> 00:14:39,139
+desktop cari foldernya klik lalu klik
+
+402
+00:14:39,139 --> 00:14:42,049
+Open gitu caranya ya selanjutnya kita
+
+403
+00:14:42,049 --> 00:14:44,149
+akan bikin file baru caranya kalian bisa
+
+404
+00:14:44,149 --> 00:14:46,759
+Arahkan kursornya ke atas kiri sampai
+
+405
+00:14:46,759 --> 00:14:49,249
+jadi ada tanda new file ya kita akan
+
+406
+00:14:49,249 --> 00:14:53,319
+bikin file baru dengan nama indeks titik
+
+407
+00:14:53,319 --> 00:14:57,350
+html silahkan dibuat dulu nah sebelum
+
+408
+00:14:57,350 --> 00:14:58,699
+kita menuliskan apapun Disini
+
+409
+00:14:58,699 --> 00:15:00,030
+teman-teman saya akan
+
+410
+00:15:00,030 --> 00:15:03,150
+sih beberapa tips supaya modding kita
+
+411
+00:15:03,150 --> 00:15:05,700
+makin cepat dan makin mudah yang pertama
+
+412
+00:15:05,700 --> 00:15:07,590
+adalah kita akan coba bareng-bareng
+
+413
+00:15:07,590 --> 00:15:10,980
+install sebuah extensions jadi extension
+
+414
+00:15:10,980 --> 00:15:13,110
+ini adalah aplikasi tambahan yang bisa
+
+415
+00:15:13,110 --> 00:15:15,330
+kita install ke dalam vs Code untuk
+
+416
+00:15:15,330 --> 00:15:17,760
+mempermudah kita modding yang ada banyak
+
+417
+00:15:17,760 --> 00:15:19,230
+sekali extension yang dimiliki oleh
+
+418
+00:15:19,230 --> 00:15:21,210
+Visual Studio code ini yang akan kita
+
+419
+00:15:21,210 --> 00:15:23,550
+install adalah satu extensions yang
+
+420
+00:15:23,550 --> 00:15:25,910
+namanya pretty er ini digunakan untuk
+
+421
+00:15:25,910 --> 00:15:29,220
+melakukan autoformat pada codingan kita
+
+422
+00:15:29,220 --> 00:15:31,770
+nanti ketika kita ngoding html itu pasti
+
+423
+00:15:31,770 --> 00:15:33,750
+scriptnya banyak dan kalau kita copy
+
+424
+00:15:33,750 --> 00:15:35,370
+paste dari bootstrap itu ada kemungkinan
+
+425
+00:15:35,370 --> 00:15:37,730
+membuat codingan kita berantakan
+
+426
+00:15:37,730 --> 00:15:40,230
+extension ini berfungsi untuk merapikan
+
+427
+00:15:40,230 --> 00:15:42,660
+codingan kita caranya gimana kalian bisa
+
+428
+00:15:42,660 --> 00:15:45,060
+Arahkan kursornya ke bagian extensions
+
+429
+00:15:45,060 --> 00:15:47,610
+klik aja terus nanti kalian tinggal
+
+430
+00:15:47,610 --> 00:15:49,740
+search ekstensi yang dibutuhkan kalian
+
+431
+00:15:49,740 --> 00:15:52,020
+gak usah pedulikan dulu ini extension
+
+432
+00:15:52,020 --> 00:15:53,730
+yang udah saya install kalau kalian baru
+
+433
+00:15:53,730 --> 00:15:55,260
+install vs Scott pasti nggak ada nggak
+
+434
+00:15:55,260 --> 00:15:57,120
+papa ya kita cari aja sekarang namanya
+
+435
+00:15:57,120 --> 00:16:00,010
+prettier kalian tulis prijs
+
+436
+00:16:00,010 --> 00:16:02,590
+sabar gini nanti pasti ada di paling
+
+437
+00:16:02,590 --> 00:16:04,540
+atas kalau kalian klik ini adalah
+
+438
+00:16:04,540 --> 00:16:06,220
+extensionnya caranya gampang saja
+
+439
+00:16:06,220 --> 00:16:08,950
+tinggal kalian klik install Oke sudah
+
+440
+00:16:08,950 --> 00:16:11,380
+kalau misalkan butuh untuk diri Star
+
+441
+00:16:11,380 --> 00:16:13,060
+Visual Studio code nya nanti dia ngasih
+
+442
+00:16:13,060 --> 00:16:15,370
+tahu disini reload required Biasanya
+
+443
+00:16:15,370 --> 00:16:17,470
+karena ini enggak ada aman enggak papa
+
+444
+00:16:17,470 --> 00:16:19,150
+Nah setelah di-install ini belum selesai
+
+445
+00:16:19,150 --> 00:16:21,340
+ada sedikit konfigurasi yang harus
+
+446
+00:16:21,340 --> 00:16:23,080
+dilakukannya ini extension yang cukup
+
+447
+00:16:23,080 --> 00:16:25,230
+populer sampai saat ini udah ada
+
+448
+00:16:25,230 --> 00:16:28,930
+10800000 yang menggunakan extension ini
+
+449
+00:16:28,930 --> 00:16:31,320
+nah caranya gimana kalian bisa ke
+
+450
+00:16:31,320 --> 00:16:33,790
+lambang setting Disini di sebelahnya
+
+451
+00:16:33,790 --> 00:16:36,700
+kita klik aja manage nanti kita masuk ke
+
+452
+00:16:36,700 --> 00:16:39,580
+extension settings Oke kita masuk ke
+
+453
+00:16:39,580 --> 00:16:41,620
+extension setting yang akan kita ubah
+
+454
+00:16:41,620 --> 00:16:43,870
+adalah gini kalian boleh Scroll kita
+
+455
+00:16:43,870 --> 00:16:46,990
+akan cari yang pertama adalah Prince wes
+
+456
+00:16:46,990 --> 00:16:49,210
+ini ini untuk supaya nanti ketika kita
+
+457
+00:16:49,210 --> 00:16:51,790
+save codingan kita itu formatnya enggak
+
+458
+00:16:51,790 --> 00:16:53,890
+terlalu trik gitu ya enggak terlalu
+
+459
+00:16:53,890 --> 00:16:55,990
+dempet kita perbesar aja nilainya saya
+
+460
+00:16:55,990 --> 00:16:59,170
+biasa pakai nilainya 240 kalau sudah
+
+461
+00:16:59,170 --> 00:17:00,019
+enggak usah this
+
+462
+00:17:00,019 --> 00:17:03,130
+Biarkan aja kita pindah ke yang lain
+
+463
+00:17:03,130 --> 00:17:07,449
+tidak pastikan seminya di ceklis ini
+
+464
+00:17:07,449 --> 00:17:10,880
+fesesnya dua sudah kali ini sudah ya Nah
+
+465
+00:17:10,880 --> 00:17:13,398
+kalau sudah Sekarang kita akan cari ya
+
+466
+00:17:13,398 --> 00:17:15,799
+kalian bisa hapus ini yang ada di kolom
+
+467
+00:17:15,799 --> 00:17:22,119
+ini kita hapus kita tulis format on C
+
+468
+00:17:22,119 --> 00:17:25,250
+ini ada di paling atas kita checklist
+
+469
+00:17:25,250 --> 00:17:27,770
+nah ini akan membuat ketika kita
+
+470
+00:17:27,770 --> 00:17:29,630
+nantinya savefile kita kontrol es
+
+471
+00:17:29,630 --> 00:17:31,760
+codingan kita otomatis rapih Nah kalau
+
+472
+00:17:31,760 --> 00:17:35,799
+sudah satu lagi kita tulis default
+
+473
+00:17:35,799 --> 00:17:39,590
+formatter nah ini cari default formatter
+
+474
+00:17:39,590 --> 00:17:44,289
+kita pilih berikhtiar nah ini sbnp
+
+475
+00:17:44,289 --> 00:17:48,380
+titik-titik rvs God sudah itu supaya
+
+476
+00:17:48,380 --> 00:17:50,179
+nanti kita bareng-bareng dan mempermudah
+
+477
+00:17:50,179 --> 00:17:52,549
+aja ya kalau sudah boleh di close aja
+
+478
+00:17:52,549 --> 00:17:55,460
+settingnya udah oke terus ada satu lagi
+
+479
+00:17:55,460 --> 00:17:57,320
+extension yang mau saya install itu
+
+480
+00:17:57,320 --> 00:18:00,029
+namanya Open in browser dari kalian
+
+481
+00:18:00,029 --> 00:18:03,359
+ketik aja Open in browser ini
+
+482
+00:18:03,359 --> 00:18:05,369
+extensionnya oh Kebetulan saya sudah
+
+483
+00:18:05,369 --> 00:18:07,499
+instal ya Jadi kalau kalian belum cari
+
+484
+00:18:07,499 --> 00:18:09,509
+aja opening browser langsung install
+
+485
+00:18:09,509 --> 00:18:11,009
+supaya nanti kita dapat dengan mudah
+
+486
+00:18:11,009 --> 00:18:13,769
+Klik Kanan kode editornya terus opening
+
+487
+00:18:13,769 --> 00:18:15,929
+browser oke itu aja kayaknya yang harus
+
+488
+00:18:15,929 --> 00:18:18,239
+kita install Silahkan di close kita
+
+489
+00:18:18,239 --> 00:18:20,879
+sembunyikan lagi extensionnya klik lagi
+
+490
+00:18:20,879 --> 00:18:24,749
+Sekarang kita akan Simpan codingan yang
+
+491
+00:18:24,749 --> 00:18:27,269
+sudah kita copy dari bootstrap nya buat
+
+492
+00:18:27,269 --> 00:18:29,190
+yang belum kita pastikan lagi kita balik
+
+493
+00:18:29,190 --> 00:18:32,570
+ke krom nya ya buka lagi kita klik copy
+
+494
+00:18:32,570 --> 00:18:35,219
+distarter template kita kembali ke sini
+
+495
+00:18:35,219 --> 00:18:37,409
+kita kontroversi ini lihat
+
+496
+00:18:37,409 --> 00:18:39,179
+teman-temannya begitu kita kontroversi
+
+497
+00:18:39,179 --> 00:18:42,359
+sekarang kita pencet kontrol es ada yang
+
+498
+00:18:42,359 --> 00:18:43,679
+terjadi ya Ini kalau misalkan kita
+
+499
+00:18:43,679 --> 00:18:46,919
+berantakin aja gini aja kita pencet
+
+500
+00:18:46,919 --> 00:18:49,799
+kontrol OS dirapihkan jadi otomatis
+
+501
+00:18:49,799 --> 00:18:52,109
+rapih karena kita nanti akan banyak opsi
+
+502
+00:18:52,109 --> 00:18:54,389
+codingan dari sini nanti akan merusak
+
+503
+00:18:54,389 --> 00:18:56,549
+kerapihan nya daripada kita benerin
+
+504
+00:18:56,549 --> 00:18:58,529
+manual geser-geser langsung aja
+
+505
+00:18:58,529 --> 00:19:00,010
+controles rapi deh
+
+506
+00:19:00,010 --> 00:19:02,650
+jadi ini adalah codingan dasar dari si
+
+507
+00:19:02,650 --> 00:19:04,390
+bootstrap nya kita kayaknya enggak akan
+
+508
+00:19:04,390 --> 00:19:06,610
+ubah-ubah banyak hal yang akan kita ubah
+
+509
+00:19:06,610 --> 00:19:08,590
+dibanding bawah sini ini katanya ada
+
+510
+00:19:08,590 --> 00:19:10,780
+opsional javascript Kita disuruh milih
+
+511
+00:19:10,780 --> 00:19:14,140
+satu dari dua option 1 ini kita dikasih
+
+512
+00:19:14,140 --> 00:19:16,660
+satu buah script yang udah ngebandul
+
+513
+00:19:16,660 --> 00:19:19,180
+atau menggabungkan antara javascript
+
+514
+00:19:19,180 --> 00:19:21,700
+punya bootstrap dengan library yang
+
+515
+00:19:21,700 --> 00:19:23,800
+namanya popper Nah kalau kita nggak akan
+
+516
+00:19:23,800 --> 00:19:26,170
+pakai popper Nah kita katanya bisa
+
+517
+00:19:26,170 --> 00:19:29,320
+menginstalnya 11 gini ya ada di sini
+
+518
+00:19:29,320 --> 00:19:31,060
+kita pilih yang ini ya tapi sekarang
+
+519
+00:19:31,060 --> 00:19:33,640
+biar simpel kita biarkan yang bandel aja
+
+520
+00:19:33,640 --> 00:19:35,560
+ya Jadi kalian boleh hapus nih yang di
+
+521
+00:19:35,560 --> 00:19:38,100
+bawah sini option 2-nya Boleh dihapus
+
+522
+00:19:38,100 --> 00:19:40,480
+yang ada tanda komentar codingan
+
+523
+00:19:40,480 --> 00:19:42,910
+abu-abunya Boleh dihapus sama tulisan
+
+524
+00:19:42,910 --> 00:19:46,450
+ini juga boleh dihapus lah Oke silahkan
+
+525
+00:19:46,450 --> 00:19:48,010
+di save sekarang kita lihat dulu
+
+526
+00:19:48,010 --> 00:19:49,840
+hasilnya teman-teman cara lihat hasilnya
+
+527
+00:19:49,840 --> 00:19:51,430
+kalian tinggal klik kanan kalau udah
+
+528
+00:19:51,430 --> 00:19:53,620
+meng-install Open in browser pasti ada
+
+529
+00:19:53,620 --> 00:19:56,380
+ini open indiefest browser Ya silakan
+
+530
+00:19:56,380 --> 00:19:59,590
+diklik nanti akan terbuka website kalian
+
+531
+00:19:59,590 --> 00:20:00,020
+jadi
+
+532
+00:20:00,020 --> 00:20:02,810
+uang kita sekarang kalian lihat tampil
+
+533
+00:20:02,810 --> 00:20:05,750
+tulisan Hello word dan di dalam Tab nya
+
+534
+00:20:05,750 --> 00:20:08,090
+udah ada tulisan Hello work ni gara-gara
+
+535
+00:20:08,090 --> 00:20:10,310
+di html ya kita udah tulis nih titelnya
+
+536
+00:20:10,310 --> 00:20:12,950
+hellowork lalu di dalam bodynya ada satu
+
+537
+00:20:12,950 --> 00:20:14,600
+hello-world Coba sekarang kita ganti
+
+538
+00:20:14,600 --> 00:20:16,700
+dulu titelnya ya Kita sesuaikan dengan
+
+539
+00:20:16,700 --> 00:20:20,630
+website kita misalnya May work Olio yang
+
+540
+00:20:20,630 --> 00:20:22,460
+silahkan kalian mau tulisannya beda pun
+
+541
+00:20:22,460 --> 00:20:25,910
+enggak masalah ya Silahkan aja sandhika
+
+542
+00:20:25,910 --> 00:20:28,310
+Galih ya kalian mau tulis nama kalian
+
+543
+00:20:28,310 --> 00:20:30,470
+silahkan save kalau kita kembali ke sini
+
+544
+00:20:30,470 --> 00:20:33,020
+kita refresh berubah tuh nah tinggal
+
+545
+00:20:33,020 --> 00:20:34,730
+anda mungkin kita modifikasi tulisannya
+
+546
+00:20:34,730 --> 00:20:36,440
+sekarang kalian lihat ini tulisannya
+
+547
+00:20:36,440 --> 00:20:39,110
+udah berubah jadi bukan lagi Times New
+
+548
+00:20:39,110 --> 00:20:41,330
+Roman dan sudah mepet kiri atas ini
+
+549
+00:20:41,330 --> 00:20:43,880
+terbukti bahwa bootstrap nya sudah ke
+
+550
+00:20:43,880 --> 00:20:45,950
+Panggil karena kalau bootstrap nya gagal
+
+551
+00:20:45,950 --> 00:20:47,900
+terpanggil ini misalkan kalian nulisnya
+
+552
+00:20:47,900 --> 00:20:50,450
+typo aja gini nih nih hapus satu huruf
+
+553
+00:20:50,450 --> 00:20:53,420
+r-nya disini Maka kalau seri fresh
+
+554
+00:20:53,420 --> 00:20:55,880
+halamannya tulisannya jadi gini nah ini
+
+555
+00:20:55,880 --> 00:20:58,670
+artinya UCWeb gagal ke Panggil ini CSS
+
+556
+00:20:58,670 --> 00:21:00,029
+nya nggak ke Panggil ya
+
+557
+00:21:00,029 --> 00:21:02,879
+Za kembalikan lagi supaya bercerai
+
+558
+00:21:02,879 --> 00:21:04,979
+kepandaian udah aman dirinya teman-teman
+
+559
+00:21:04,979 --> 00:21:06,869
+jadi kita berhasil manggil bootstrap Nah
+
+560
+00:21:06,869 --> 00:21:08,219
+sekarang saya akan coba sedikit
+
+561
+00:21:08,219 --> 00:21:10,229
+kemudahannya contohnya gini kalau
+
+562
+00:21:10,229 --> 00:21:13,440
+misalnya kita tahu html dan CSS GTA kita
+
+563
+00:21:13,440 --> 00:21:15,330
+pengen bikin tulisan Hello what ini ada
+
+564
+00:21:15,330 --> 00:21:17,729
+di tengah-tengah halaman itu caranya
+
+565
+00:21:17,729 --> 00:21:20,249
+kita harus gunakan CSS yang bisa kan
+
+566
+00:21:20,249 --> 00:21:22,559
+kita tulis di sini aja deh CSS nya kita
+
+567
+00:21:22,559 --> 00:21:26,460
+pakai style terus H1 ya ini kan
+
+568
+00:21:26,460 --> 00:21:28,349
+tulisannya gini CSS Tolong carikan saya
+
+569
+00:21:28,349 --> 00:21:32,399
+satu terus kalau ketemu ubah rata
+
+570
+00:21:32,399 --> 00:21:36,059
+tulisannya jadi senter acaranya gitu
+
+571
+00:21:36,059 --> 00:21:39,299
+maka dia akan geser ke tengah oke
+
+572
+00:21:39,299 --> 00:21:41,700
+sekarang ke saya pengen ubah tulisannya
+
+573
+00:21:41,700 --> 00:21:44,309
+jadi biru berarti caranya kita ganti
+
+574
+00:21:44,309 --> 00:21:49,950
+kolornya itu jadi dulu di CSS Nya maka
+
+575
+00:21:49,950 --> 00:21:52,589
+berubah jadi biru Eh itu kalo pake CSS
+
+576
+00:21:52,589 --> 00:21:55,440
+Nah sekarang bootstrap mempermudah ini
+
+577
+00:21:55,440 --> 00:21:56,969
+teman-teman jadi kita nggak perlu lagi
+
+578
+00:21:56,969 --> 00:21:59,489
+pakai CSS yang perlu kita lakukan hanya
+
+579
+00:21:59,489 --> 00:22:00,010
+memberi
+
+580
+00:22:00,010 --> 00:22:03,370
+ikhlas aja pada elemen yang kita akan
+
+581
+00:22:03,370 --> 00:22:06,040
+kasih style contohnya kasih kelas kalau
+
+582
+00:22:06,040 --> 00:22:08,400
+pengen ke tengah ada yang namanya teks
+
+583
+00:22:08,400 --> 00:22:12,640
+desa atau minus center jadi dia langsung
+
+584
+00:22:12,640 --> 00:22:15,280
+punya teks center pindah ke tengah kalau
+
+585
+00:22:15,280 --> 00:22:16,780
+mau ke kanan gimana ya kita tinggal
+
+586
+00:22:16,780 --> 00:22:18,760
+ganti cuman saat ini nah ini
+
+587
+00:22:18,760 --> 00:22:20,680
+perbedaannya bustep 5 nih enggak ada
+
+588
+00:22:20,680 --> 00:22:22,510
+teks Ray teman-teman kalau sebelumnya
+
+589
+00:22:22,510 --> 00:22:25,900
+konteks raitex center text-left sekarang
+
+590
+00:22:25,900 --> 00:22:28,180
+enggak ada sekarang semua yang ada
+
+591
+00:22:28,180 --> 00:22:31,360
+tulisan read dan lesnya itu bisa diganti
+
+592
+00:22:31,360 --> 00:22:34,810
+jadi start dan end ya Jadi kalian bisa
+
+593
+00:22:34,810 --> 00:22:37,720
+tulisken nah kenapa begitu karena
+
+594
+00:22:37,720 --> 00:22:40,060
+sekarang bus reef 5 itu bisa mengubah
+
+595
+00:22:40,060 --> 00:22:43,150
+gaya penulisan stalya itu mau dari kanan
+
+596
+00:22:43,150 --> 00:22:45,250
+ke kiri atau dari kiri ke kanan ini
+
+597
+00:22:45,250 --> 00:22:47,290
+untuk mengadopsi website-website yang
+
+598
+00:22:47,290 --> 00:22:48,970
+tulisannya kita baca dari kanan
+
+599
+00:22:48,970 --> 00:22:51,600
+contohnya huruf Arab ya kita bacanya rtl
+
+600
+00:22:51,600 --> 00:22:54,790
+right-to-left makanya nulisnya bukan
+
+601
+00:22:54,790 --> 00:22:57,730
+lagi text-right tapi teks n kalau mereka
+
+602
+00:22:57,730 --> 00:22:59,710
+terhebat eksenter ya sekarang kalau mau
+
+603
+00:22:59,710 --> 00:23:00,020
+Gan
+
+604
+00:23:00,020 --> 00:23:03,050
+karena nah kalau mau ganti warna tulisan
+
+605
+00:23:03,050 --> 00:23:06,080
+ada yang namanya teks Desla lu nama
+
+606
+00:23:06,080 --> 00:23:08,570
+warnanya nama warnanya apa coba kita
+
+607
+00:23:08,570 --> 00:23:11,870
+contek aja dari dokumentasinya kita bisa
+
+608
+00:23:11,870 --> 00:23:14,690
+masuk ke bagian utilities disini dia
+
+609
+00:23:14,690 --> 00:23:17,090
+punya colors secara default kita udah
+
+610
+00:23:17,090 --> 00:23:19,340
+dikasih beberapa warna default ada yang
+
+611
+00:23:19,340 --> 00:23:23,090
+namanya primary secondary sukses Danger
+
+612
+00:23:23,090 --> 00:23:26,120
+warning info dan seterusnya ini juga
+
+613
+00:23:26,120 --> 00:23:27,680
+kepakai nanti kita mau bikin warna
+
+614
+00:23:27,680 --> 00:23:30,590
+background warna tombol warna alert tadi
+
+615
+00:23:30,590 --> 00:23:33,230
+semua istilahnya sama ya misalkan warna
+
+616
+00:23:33,230 --> 00:23:35,150
+biru Ya udah kita ganti aja namanya jadi
+
+617
+00:23:35,150 --> 00:23:40,160
+text-primary terlihat hasilnya lihat
+
+618
+00:23:40,160 --> 00:23:42,170
+warnanya jadi biru ya jadi semudah itu
+
+619
+00:23:42,170 --> 00:23:43,910
+kita tinggal manggil kelasnya cuman
+
+620
+00:23:43,910 --> 00:23:46,760
+Memang sekarang kita tinggal harus
+
+621
+00:23:46,760 --> 00:23:49,070
+ngafalin kelas-kelasnya aja tapi
+
+622
+00:23:49,070 --> 00:23:50,720
+kayaknya kalau kalian nantinya sering
+
+623
+00:23:50,720 --> 00:23:52,460
+bikin website pakai busra pasti nanti
+
+624
+00:23:52,460 --> 00:23:54,470
+hafal sendiri lama-lama kelas-kelas yang
+
+625
+00:23:54,470 --> 00:23:56,600
+sering dipakai kalaupun lupa ya udah
+
+626
+00:23:56,600 --> 00:23:58,480
+tinggal balik lagi ajak ke
+
+627
+00:23:58,480 --> 00:24:00,029
+dokumentasinya kalau
+
+628
+00:24:00,029 --> 00:24:02,549
+lupa ada di mana misalkan tadi warna tuh
+
+629
+00:24:02,549 --> 00:24:04,499
+ada dimana ya Apakah di helpers atau di
+
+630
+00:24:04,499 --> 00:24:06,259
+utilities saya lupa daripada nyoba-nyoba
+
+631
+00:24:06,259 --> 00:24:08,940
+sekarang dapat dengan mudah ketika ia
+
+632
+00:24:08,940 --> 00:24:10,979
+disini bahkan kita udah disediain
+
+633
+00:24:10,979 --> 00:24:12,509
+shortcut nya kalau kita lagi di mana
+
+634
+00:24:12,509 --> 00:24:14,219
+gitu ya Nggak perlu ngarahin kursornya
+
+635
+00:24:14,219 --> 00:24:16,639
+terus klik langsung aja kontrol slash
+
+636
+00:24:16,639 --> 00:24:19,739
+langsung pindah ke percayanya kita
+
+637
+00:24:19,739 --> 00:24:22,229
+tinggal tulis aja colors langsung ada
+
+638
+00:24:22,229 --> 00:24:25,289
+tinggal kita pilih Oh ya namanya Premier
+
+639
+00:24:25,289 --> 00:24:28,889
+Rio ya namanya sukses ya Gampang Oke itu
+
+640
+00:24:28,889 --> 00:24:31,080
+cara simple kalau mau modif modif yang
+
+641
+00:24:31,080 --> 00:24:32,729
+silahkan kalian mau coba-coba dulu boleh
+
+642
+00:24:32,729 --> 00:24:34,349
+tapi sekarang yang akan kita lakukan
+
+643
+00:24:34,349 --> 00:24:37,349
+adalah membuat elemen pertama kita ya
+
+644
+00:24:37,349 --> 00:24:40,080
+membuat komponen website pertama kita
+
+645
+00:24:40,080 --> 00:24:43,169
+yaitu nasbar nih yang paling atas dulu
+
+646
+00:24:43,169 --> 00:24:46,320
+yah caranya gimana biasanya saya Tandai
+
+647
+00:24:46,320 --> 00:24:48,509
+dulu tiap-tiap bagian di htmlnya
+
+648
+00:24:48,509 --> 00:24:50,309
+biasanya pakai komentar caranya kalian
+
+649
+00:24:50,309 --> 00:24:52,619
+boleh pencet kontrol atau comment kalau
+
+650
+00:24:52,619 --> 00:24:55,739
+di Max Smash untuk membuat komentar kita
+
+651
+00:24:55,739 --> 00:24:58,950
+tulis disini Maaf bar Terus di bawahnya
+
+652
+00:24:58,950 --> 00:25:00,010
+kita tulis satu
+
+653
+00:25:00,010 --> 00:25:02,110
+buat nutupnya biar nggak lupa nih
+
+654
+00:25:02,110 --> 00:25:05,920
+biasanya saya gini akhir navbar nanti
+
+655
+00:25:05,920 --> 00:25:08,290
+saya simpan di sini oke sekarang gimana
+
+656
+00:25:08,290 --> 00:25:10,900
+caranya bikin navbar Caranya tinggal
+
+657
+00:25:10,900 --> 00:25:13,930
+copas aja temen-temen cari didokumentasi
+
+658
+00:25:13,930 --> 00:25:17,950
+namanya navbar udah ada kita Klik nanti
+
+659
+00:25:17,950 --> 00:25:20,110
+diarahkan ke bagian navbar enak banget
+
+660
+00:25:20,110 --> 00:25:22,120
+ya enggak kita Scroll cari yang kita
+
+661
+00:25:22,120 --> 00:25:24,130
+butuhin yang mana hanya Kalian mau yang
+
+662
+00:25:24,130 --> 00:25:26,980
+ini yang lengkap ada nama brand ya Ada
+
+663
+00:25:26,980 --> 00:25:28,990
+link di sebelah kiri ada share di
+
+664
+00:25:28,990 --> 00:25:30,910
+sebelah kanan kalau pakai ini boleh
+
+665
+00:25:30,910 --> 00:25:33,160
+langsung aja copy klik copy tapi kayak
+
+666
+00:25:33,160 --> 00:25:34,540
+kita nggak akan pakai yang kompleks kita
+
+667
+00:25:34,540 --> 00:25:36,640
+mau pakai yang simple ya karena didesain
+
+668
+00:25:36,640 --> 00:25:38,410
+kita akan simpel juga ya kalau kalian
+
+669
+00:25:38,410 --> 00:25:40,270
+lihat cuman ada di sebelah kiri
+
+670
+00:25:40,270 --> 00:25:43,150
+brand-nya saya terbesar dulu sama di
+
+671
+00:25:43,150 --> 00:25:45,280
+sebelah kanan link-nya kita akan pakai
+
+672
+00:25:45,280 --> 00:25:47,770
+ini kita coba Scroll cari yang simple
+
+673
+00:25:47,770 --> 00:25:49,540
+ini terlalu simpel enggak ada linknya
+
+674
+00:25:49,540 --> 00:25:52,960
+jangan krologi nah ini kalian bisa ganti
+
+675
+00:25:52,960 --> 00:25:54,910
+jadi gambar kalau kalian punya gambar
+
+676
+00:25:54,910 --> 00:25:57,670
+logo kalian atau logo perusahaan caranya
+
+677
+00:25:57,670 --> 00:26:00,020
+gini ganti pakai image
+
+678
+00:26:00,020 --> 00:26:02,420
+kita pakai tulisan aja deh atau digabung
+
+679
+00:26:02,420 --> 00:26:04,820
+ada tulisannya ada gambarnya bisa juga
+
+680
+00:26:04,820 --> 00:26:07,580
+silakan contek aja Nah kita butuh yang
+
+681
+00:26:07,580 --> 00:26:10,790
+ini nih ya kita butuh yang cuman tulisan
+
+682
+00:26:10,790 --> 00:26:13,880
+aja dan link ya Jadi kalian boleh copy
+
+683
+00:26:13,880 --> 00:26:16,760
+di sini kita klik copy kita balik ke
+
+684
+00:26:16,760 --> 00:26:19,760
+kode editor kita kita simpan kursornya
+
+685
+00:26:19,760 --> 00:26:22,550
+disini kontroversi lalu kalau pencet
+
+686
+00:26:22,550 --> 00:26:25,220
+kontrol OS Nanti kalo berantakan itu
+
+687
+00:26:25,220 --> 00:26:26,840
+dirapiin otomatis contohnya gini
+
+688
+00:26:26,840 --> 00:26:29,180
+misalnya waktu di pes ya ini berantakan
+
+689
+00:26:29,180 --> 00:26:32,170
+gini kalau kita pencet kontrol es
+
+690
+00:26:32,170 --> 00:26:34,640
+langsung balik lagi tuh ngerapihin
+
+691
+00:26:34,640 --> 00:26:37,010
+dirinya sendiri Keren ya sekarang kalau
+
+692
+00:26:37,010 --> 00:26:38,570
+misalkan kita kontrol es terus kita
+
+693
+00:26:38,570 --> 00:26:40,490
+lihat hasilnya balik ke sini kita
+
+694
+00:26:40,490 --> 00:26:43,010
+refresh Nah itu tiba-tiba di atas sudah
+
+695
+00:26:43,010 --> 00:26:45,440
+ada masbar ya Dan ini kerennya udah
+
+696
+00:26:45,440 --> 00:26:47,150
+responsif teman-teman Jadi kalau kalian
+
+697
+00:26:47,150 --> 00:26:49,280
+Klik Kanan ini kalau pakai Google crhom
+
+698
+00:26:49,280 --> 00:26:50,750
+yah Saran saya sih Kalian pakai Google
+
+699
+00:26:50,750 --> 00:26:53,120
+Chrome Lalu inspect nanti kita bisa
+
+700
+00:26:53,120 --> 00:26:55,520
+lihat kalau kalian klik disini togel
+
+701
+00:26:55,520 --> 00:26:57,950
+device toolbar buat yang ada di bawah
+
+702
+00:26:57,950 --> 00:27:00,029
+cari aja nih logonya karena
+
+703
+00:27:00,029 --> 00:27:03,299
+klik Nanti kalian bisa simulasikan dia
+
+704
+00:27:03,299 --> 00:27:06,389
+jadi responsif ketika dibuka misalnya di
+
+705
+00:27:06,389 --> 00:27:08,879
+tablet di handphone di laptop dan
+
+706
+00:27:08,879 --> 00:27:11,639
+netbook gitu ya Otomatis sih navigasinya
+
+707
+00:27:11,639 --> 00:27:14,429
+menyilang dan sekarang kau diklik keluar
+
+708
+00:27:14,429 --> 00:27:16,409
+tuh sip tinggal di Kita kelas lagi
+
+709
+00:27:16,409 --> 00:27:18,659
+Balikin ke keadaan awal sekarang ini ada
+
+710
+00:27:18,659 --> 00:27:19,979
+yang mau kita modifikasi teman-teman
+
+711
+00:27:19,979 --> 00:27:22,349
+saya enggak mau mepet saya pengennya ya
+
+712
+00:27:22,349 --> 00:27:23,849
+ada di tengah-tengah sinilah nah ini
+
+713
+00:27:23,849 --> 00:27:25,440
+caranya kita jangan tulis
+
+714
+00:27:25,440 --> 00:27:27,719
+container-fluid kita cukup tulis
+
+715
+00:27:27,719 --> 00:27:29,969
+kontainer aja lo padika bisa tahu ya
+
+716
+00:27:29,969 --> 00:27:32,009
+Karena semua ada di sini kalian tinggal
+
+717
+00:27:32,009 --> 00:27:34,799
+baca aja nanti ada bagian kontainer nih
+
+718
+00:27:34,799 --> 00:27:37,710
+bagian kontainer paint di tengah simpan
+
+719
+00:27:37,710 --> 00:27:40,379
+kontainer nya di luar maka navbar enggak
+
+720
+00:27:40,379 --> 00:27:42,389
+penuh tapi kalau misalkan pengen penuh
+
+721
+00:27:42,389 --> 00:27:43,979
+simpen kontainer nya di dalam
+
+722
+00:27:43,979 --> 00:27:46,399
+menggantikan container-fluid ini
+
+723
+00:27:46,399 --> 00:27:48,719
+sekarang kau kita save terus kita ke
+
+724
+00:27:48,719 --> 00:27:50,200
+sini kita refresh lagi
+
+725
+00:27:50,200 --> 00:27:53,350
+the best Setia sudah next next kita
+
+726
+00:27:53,350 --> 00:27:56,110
+pengen bikin navigasinya atau link-link
+
+727
+00:27:56,110 --> 00:27:58,450
+ini enggak mepet kiri tapi mepet kanan
+
+728
+00:27:58,450 --> 00:28:01,390
+ini caranya gimana caranya kita tinggal
+
+729
+00:28:01,390 --> 00:28:05,800
+Arahkan kursor kita kebagian ulur2 dalah
+
+730
+00:28:05,800 --> 00:28:08,650
+and ordered list tempat menyimpan semua
+
+731
+00:28:08,650 --> 00:28:11,860
+list kita Nah di sini kita cukup kasih
+
+732
+00:28:11,860 --> 00:28:15,250
+sebuah kelas yang namanya margin start
+
+733
+00:28:15,250 --> 00:28:17,320
+atau margin level Ayah kalau misalkan
+
+734
+00:28:17,320 --> 00:28:19,360
+kita mulai dari kiri ke kanan itu
+
+735
+00:28:19,360 --> 00:28:23,020
+margin-left kita set dengan auto jadi
+
+736
+00:28:23,020 --> 00:28:25,000
+yang levelnya nggak mepet kiri pindah
+
+737
+00:28:25,000 --> 00:28:28,720
+kanan Oh oke selanjutnya saya pengen
+
+738
+00:28:28,720 --> 00:28:31,660
+warna navbar nya enggak abu-abu Gini ini
+
+739
+00:28:31,660 --> 00:28:34,000
+default-nya abu-abu design kita warna
+
+740
+00:28:34,000 --> 00:28:36,340
+biru ceritanya kita tahu tadi kita bisa
+
+741
+00:28:36,340 --> 00:28:38,350
+kasih warna primer read api dimana
+
+742
+00:28:38,350 --> 00:28:41,050
+kalian bisa Scroll ke atas ada di sini
+
+743
+00:28:41,050 --> 00:28:43,420
+ada dua yang akan kita ganti yang
+
+744
+00:28:43,420 --> 00:28:46,120
+pertama BG atau background Kalian mau
+
+745
+00:28:46,120 --> 00:28:47,830
+kasih warna background nya apa karena
+
+746
+00:28:47,830 --> 00:28:50,210
+biru tadi kita kasih Premier
+
+747
+00:28:50,210 --> 00:28:52,070
+hey ini akan merubah yang warna abu-abu
+
+748
+00:28:52,070 --> 00:28:55,400
+muda ini jadi biru kalau kalian suka
+
+749
+00:28:55,400 --> 00:28:57,500
+biru pasnya sukanya warna merah ya udah
+
+750
+00:28:57,500 --> 00:29:01,730
+ganti aja jadi Danger Oppa jangan
+
+751
+00:29:01,730 --> 00:29:04,160
+terlalu terang Gimana kalau orange ada
+
+752
+00:29:04,160 --> 00:29:06,990
+yang namanya worning
+
+753
+00:29:06,990 --> 00:29:09,630
+Hai toh Ya silakan ini ada beberapa
+
+754
+00:29:09,630 --> 00:29:11,550
+warna yang bisa kalian pilih kalau
+
+755
+00:29:11,550 --> 00:29:14,309
+misalnya warna yang dipilih itu enggak
+
+756
+00:29:14,309 --> 00:29:16,440
+sesuai kalian enggak suka warna yang
+
+757
+00:29:16,440 --> 00:29:18,600
+dipilihkan oleh bootstrap ya udah nggak
+
+758
+00:29:18,600 --> 00:29:20,910
+usah pakai BG hapus aja kita bikin
+
+759
+00:29:20,910 --> 00:29:23,790
+sendiri style kita di sini ya kekasih
+
+760
+00:29:23,790 --> 00:29:26,460
+aja background color warna favorit
+
+761
+00:29:26,460 --> 00:29:28,920
+kalian memisahkan warna favoritnya kalau
+
+762
+00:29:28,920 --> 00:29:31,080
+pakai vs cone kalian bisa nulis gini
+
+763
+00:29:31,080 --> 00:29:34,230
+kalian tulis aja dulu 000003 atau
+
+764
+00:29:34,230 --> 00:29:37,250
+berapapun enam digit kode hexadecimal
+
+765
+00:29:37,250 --> 00:29:40,679
+kalau nol semua itu warnanya item kalau
+
+766
+00:29:40,679 --> 00:29:42,240
+kalian pengen cari warna favorit kalian
+
+767
+00:29:42,240 --> 00:29:44,040
+setelah bikin gini lihat nih Kanada
+
+768
+00:29:44,040 --> 00:29:46,050
+kotak warna hitam nih disini arahin aja
+
+769
+00:29:46,050 --> 00:29:48,630
+Mouse nya tuh disini baru Kalian cari
+
+770
+00:29:48,630 --> 00:29:51,210
+warna favorit kalian wahai suka biru
+
+771
+00:29:51,210 --> 00:29:53,580
+muda ya udah cari aja kalau sudah di
+
+772
+00:29:53,580 --> 00:29:57,030
+save refresh Ya silakan cari warna
+
+773
+00:29:57,030 --> 00:29:58,559
+favorit kalian sekali lagi yang saya mau
+
+774
+00:29:58,559 --> 00:30:01,470
+pakai adalah background primery ini
+
+775
+00:30:01,470 --> 00:30:05,610
+hapus ya hapus terus kita kasih pop
+
+776
+00:30:05,610 --> 00:30:06,970
+sorry ini di dalam kutip
+
+777
+00:30:06,970 --> 00:30:11,530
+Kim berarti apa bg-primary Oke kita
+
+778
+00:30:11,530 --> 00:30:14,710
+refresh sudah birunya udah oke tapi ya
+
+779
+00:30:14,710 --> 00:30:16,510
+nggak suka nih tulisannya ke warna hitam
+
+780
+00:30:16,510 --> 00:30:19,210
+jadi gelap gini nah ini karena kelas
+
+781
+00:30:19,210 --> 00:30:21,250
+yang ini kelas ini ngasih tahu bahwa
+
+782
+00:30:21,250 --> 00:30:24,640
+nasbar kita itu warna yang terang Kalau
+
+783
+00:30:24,640 --> 00:30:26,980
+navbar nya perang otomatis bootstrap
+
+784
+00:30:26,980 --> 00:30:29,679
+akan bikin tulisannya gelap eh Nah
+
+785
+00:30:29,679 --> 00:30:31,150
+sekarang berarti kita harus kasih tahu
+
+786
+00:30:31,150 --> 00:30:33,580
+kalau navbar kita gelap caranya ganti
+
+787
+00:30:33,580 --> 00:30:38,320
+aja like jadi Dark sehingga tulisannya
+
+788
+00:30:38,320 --> 00:30:40,780
+akan kembalikan yaitu otomatis Keren ya
+
+789
+00:30:40,780 --> 00:30:43,419
+Oke kalau sudah tinggal kita ganti deh
+
+790
+00:30:43,419 --> 00:30:45,549
+isinya Sekarang kita ganti brand-nya
+
+791
+00:30:45,549 --> 00:30:50,110
+jadi nama kita silahkan kalian tulis
+
+792
+00:30:50,110 --> 00:30:51,580
+nama kalian boleh tapi jangan terlalu
+
+793
+00:30:51,580 --> 00:30:53,350
+panjang ya karena dikau terlalu panjang
+
+794
+00:30:53,350 --> 00:30:55,809
+dia turun enggak bagus cari aja nama
+
+795
+00:30:55,809 --> 00:30:58,960
+yang sesuai lah sudah terus link-nya nah
+
+796
+00:30:58,960 --> 00:31:01,480
+linknya ini saya mau bikin beberapa ya
+
+797
+00:31:01,480 --> 00:31:04,690
+yang pertama ini kita biarkan dulu ada
+
+798
+00:31:04,690 --> 00:31:06,980
+tulisan aktif dan area care
+
+799
+00:31:06,980 --> 00:31:09,140
+ini Biarin ajalah ya kita biarkan
+
+800
+00:31:09,140 --> 00:31:11,360
+namanya Home tapi yang kedua ini saya
+
+801
+00:31:11,360 --> 00:31:14,750
+pengen tulisannya tu about ya about
+
+802
+00:31:14,750 --> 00:31:15,950
+terus yang ketiga itu saya pengen
+
+803
+00:31:15,950 --> 00:31:18,530
+tulisannya projects kita cerita ini
+
+804
+00:31:18,530 --> 00:31:20,090
+adalah project-project yang udah pernah
+
+805
+00:31:20,090 --> 00:31:23,600
+saya bikin kalau mau ganti jadi galeri
+
+806
+00:31:23,600 --> 00:31:26,030
+boleh menjadi Services boleh ya bebas
+
+807
+00:31:26,030 --> 00:31:28,280
+aja ya dan yang terakhir saya pengen
+
+808
+00:31:28,280 --> 00:31:30,590
+kontak my supaya orang bisa mengontak
+
+809
+00:31:30,590 --> 00:31:32,240
+saya tapi ini default-nya ini sih
+
+810
+00:31:32,240 --> 00:31:35,210
+bostrap bikin link-nya ini disable gak
+
+811
+00:31:35,210 --> 00:31:38,210
+bisa ceklik oleh yang 2 ini linknya
+
+812
+00:31:38,210 --> 00:31:40,040
+warnanya agak pudar ya tapi tetep bisa
+
+813
+00:31:40,040 --> 00:31:42,140
+saya klik karena bedanya sama yang home
+
+814
+00:31:42,140 --> 00:31:44,419
+yang home aktif ceritanya kita lagi ada
+
+815
+00:31:44,419 --> 00:31:46,460
+di bagian How nah ini saya mau ganti aja
+
+816
+00:31:46,460 --> 00:31:49,340
+deh yang disegelnya ya kita hapus blog
+
+817
+00:31:49,340 --> 00:31:52,490
+terus Kalian deret kita mau ganti pakai
+
+818
+00:31:52,490 --> 00:31:54,380
+ini jadi kita copy aja kalian bisa
+
+819
+00:31:54,380 --> 00:31:57,080
+kontrol C terus pindah kesini
+
+820
+00:31:57,080 --> 00:31:59,059
+kontroversi tapi kalau kalian pakai
+
+821
+00:31:59,059 --> 00:32:00,860
+Visual Studio code ada cara gampangnya
+
+822
+00:32:00,860 --> 00:32:03,410
+kalian boleh Blok aja terus Kalian
+
+823
+00:32:03,410 --> 00:32:06,410
+pencet alt dan shift bersamaan lalu
+
+824
+00:32:06,410 --> 00:32:06,990
+pencet Bang
+
+825
+00:32:06,990 --> 00:32:09,720
+Hai maka yang kalian blog akan
+
+826
+00:32:09,720 --> 00:32:11,700
+diduplikat ke bawah kalau kalian
+
+827
+00:32:11,700 --> 00:32:14,070
+mencetak file tesis atas maka akan
+
+828
+00:32:14,070 --> 00:32:17,190
+diduplikat ke atas sudah kita ganti aja
+
+829
+00:32:17,190 --> 00:32:21,900
+sekarang jadi konteks ini chef supaya
+
+830
+00:32:21,900 --> 00:32:24,840
+rapih balik ke sini kita refresh Oke
+
+831
+00:32:24,840 --> 00:32:27,090
+aman sip ya ini bagian navbar ya
+
+832
+00:32:27,090 --> 00:32:28,980
+teman-teman kayaknya udah beres nih tapi
+
+833
+00:32:28,980 --> 00:32:31,500
+saya mau tambah sedikit hiasan agar si
+
+834
+00:32:31,500 --> 00:32:33,840
+navbar ini punya sedikit bayangan ya
+
+835
+00:32:33,840 --> 00:32:35,880
+bootstrap punya itu teman-teman Jadi
+
+836
+00:32:35,880 --> 00:32:38,460
+kalian kau cari di bus Arabnya Shadow
+
+837
+00:32:38,460 --> 00:32:40,679
+kalian bisa memberi bayangan pada elemen
+
+838
+00:32:40,679 --> 00:32:42,870
+yang kalian punya tuh jadi punya
+
+839
+00:32:42,870 --> 00:32:45,090
+bayangan gini silakan lokasi yang small
+
+840
+00:32:45,090 --> 00:32:47,640
+yang regular atau yang Wars HPnya kita
+
+841
+00:32:47,640 --> 00:32:50,010
+pakai yang semula Jaya ini terlalu ini
+
+842
+00:32:50,010 --> 00:32:52,530
+terlalu heboh nih bayarannya caranya
+
+843
+00:32:52,530 --> 00:32:55,590
+gimana caranya cukup kasih Shadow Dash
+
+844
+00:32:55,590 --> 00:32:58,980
+SM untuk yang smong untuk yang reguler
+
+845
+00:32:58,980 --> 00:33:01,410
+cukup Shadow aja coba kita kasih Shadow
+
+846
+00:33:01,410 --> 00:33:04,320
+Desember ini dicopy kita simpan di
+
+847
+00:33:04,320 --> 00:33:06,970
+navbar ya di sini
+
+848
+00:33:06,970 --> 00:33:08,679
+Hai ya sampai saat ini kita sama sekali
+
+849
+00:33:08,679 --> 00:33:11,440
+belum nulisin CSS kayaknya nanti akan
+
+850
+00:33:11,440 --> 00:33:13,690
+ada tapi nggak banyak kembali ke sini
+
+851
+00:33:13,690 --> 00:33:17,230
+kita refresh data adalah sedikit ya
+
+852
+00:33:17,230 --> 00:33:21,179
+kalau kita pakai Shadow yang biasa Neng
+
+853
+00:33:21,179 --> 00:33:25,210
+terlalu besar shadownya tuh yang kita
+
+854
+00:33:25,210 --> 00:33:28,750
+pakai yang semula aja oke sudah itu
+
+855
+00:33:28,750 --> 00:33:31,080
+untuk navbar sekarang kita masuk ke
+
+856
+00:33:31,080 --> 00:33:34,000
+section yang kedua section yang kedua
+
+857
+00:33:34,000 --> 00:33:38,230
+adalah yang ini bagian Hero section atau
+
+858
+00:33:38,230 --> 00:33:40,690
+kalau dulu Buset jemputnya jumbotron
+
+859
+00:33:40,690 --> 00:33:43,330
+jadi ada bagian yang warna background
+
+860
+00:33:43,330 --> 00:33:47,770
+nya biru muda ada gambar ada tulisan Nah
+
+861
+00:33:47,770 --> 00:33:49,840
+kalau misalkan kita contek gaya kalian
+
+862
+00:33:49,840 --> 00:33:52,120
+balik ke dokumentasi bootstrap terus
+
+863
+00:33:52,120 --> 00:33:54,340
+kita pindahin nih bootstrap 5 jadi
+
+864
+00:33:54,340 --> 00:33:56,650
+bootstrap 4 kalau kita pindahin kalian
+
+865
+00:33:56,650 --> 00:34:00,250
+search disini jumbotron itu ada masih
+
+866
+00:34:00,250 --> 00:34:02,610
+ada bisa dicari nah gimana kalau kita
+
+867
+00:34:02,610 --> 00:34:05,710
+copy saja htmlnya ya kita copy htmlnya
+
+868
+00:34:05,710 --> 00:34:06,980
+klik copy
+
+869
+00:34:06,980 --> 00:34:09,710
+Ayo kita balik ke codingan kita kita
+
+870
+00:34:09,710 --> 00:34:11,750
+bikin di bawah sini oke komentar Lagi
+
+871
+00:34:11,750 --> 00:34:16,100
+kontrol flash kita tulis jumbotron kita
+
+872
+00:34:16,100 --> 00:34:20,830
+tutup bawahnya dengan akhir jumbotron
+
+873
+00:34:20,830 --> 00:34:23,600
+pada kita simpan di dalam sini nah
+
+874
+00:34:23,600 --> 00:34:25,369
+sekarang sebelum kita lihat hasilnya
+
+875
+00:34:25,369 --> 00:34:27,969
+Saya mau ganti dulu tulisan dirinya jadi
+
+876
+00:34:27,969 --> 00:34:32,179
+section ya kalian ganti diving ini sama
+
+877
+00:34:32,179 --> 00:34:33,980
+Diva yang bawah Loh kenapa tadi kau
+
+878
+00:34:33,980 --> 00:34:35,690
+otomatis berubah Nah itu karena ada
+
+879
+00:34:35,690 --> 00:34:37,280
+extension yang tadi saya lupa ya Kasih
+
+880
+00:34:37,280 --> 00:34:40,609
+tahu ada yang namanya authoring nametag
+
+881
+00:34:40,609 --> 00:34:43,190
+ya jadi kosek ganti satu tutupnya
+
+882
+00:34:43,190 --> 00:34:45,050
+otomatis negatif juga lumayan membantu
+
+883
+00:34:45,050 --> 00:34:46,969
+sih kalau kalian mau boleh Nah kalau
+
+884
+00:34:46,969 --> 00:34:49,190
+sudah kita save kita lihat kesini lihat
+
+885
+00:34:49,190 --> 00:34:52,219
+hasilnya Nah semuanya terpengaruh
+
+886
+00:34:52,219 --> 00:34:55,489
+kecuali warna background nya kita tetep
+
+887
+00:34:55,489 --> 00:34:58,730
+mau pakai display 4 sama lainnya tetap
+
+888
+00:34:58,730 --> 00:35:00,590
+mau kita pakai paling nanti ini enggak
+
+889
+00:35:00,590 --> 00:35:02,119
+butuh ya dua ini kita nggak butuh Boleh
+
+890
+00:35:02,119 --> 00:35:04,220
+dihapus tapi belakangan Nah sekarang
+
+891
+00:35:04,220 --> 00:35:06,990
+kita akan buat Style jumbotron eh manual
+
+892
+00:35:06,990 --> 00:35:08,880
+sekarang Gimana Kita bikin CSS kita
+
+893
+00:35:08,880 --> 00:35:10,590
+sendiri dulu ini kita biarkan kalian
+
+894
+00:35:10,590 --> 00:35:13,470
+Scroll ke atas kita bikin Disini di
+
+895
+00:35:13,470 --> 00:35:16,410
+bawah bootstrap.css kita bikin pakai
+
+896
+00:35:16,410 --> 00:35:20,550
+komentar Mai kyau yang kita Arahkan ke
+
+897
+00:35:20,550 --> 00:35:23,580
+link terus pencet tab kita bikin file
+
+898
+00:35:23,580 --> 00:35:27,180
+namanya style titik CSS ini kita belum
+
+899
+00:35:27,180 --> 00:35:29,460
+bikin ya bikin dulu terus kontrol es
+
+900
+00:35:29,460 --> 00:35:33,119
+kita save kita buka websitenya shortcut
+
+901
+00:35:33,119 --> 00:35:35,010
+nya kontrol B yang untuk buka Said bar
+
+902
+00:35:35,010 --> 00:35:37,860
+kita mau pilih yang ini Explorer di sini
+
+903
+00:35:37,860 --> 00:35:41,670
+kita bikin file baru kasih nama style
+
+904
+00:35:41,670 --> 00:35:46,170
+titik CSS sudah kita tutup Lagi kontrol
+
+905
+00:35:46,170 --> 00:35:49,470
+B nah kita tulis apa kita tulis kelasnya
+
+906
+00:35:49,470 --> 00:35:53,340
+tadi jumbotron titik jumbotron CSS
+
+907
+00:35:53,340 --> 00:35:55,170
+Cariin dong saya elemen yang nama
+
+908
+00:35:55,170 --> 00:35:58,110
+kelasnya jumbotron kalau ketemu ubah
+
+909
+00:35:58,110 --> 00:36:01,050
+pending ya atas bawahnya ini saya pakai
+
+910
+00:36:01,050 --> 00:36:02,910
+satuan yang namanya rem ya saya kasih
+
+911
+00:36:02,910 --> 00:36:05,490
+dua rem kalau kalian bingung apa itu rem
+
+912
+00:36:05,490 --> 00:36:06,970
+Apa itu m cara jadi C
+
+913
+00:36:06,970 --> 00:36:09,970
+atau udah ada ya kalian saja CSS unit
+
+914
+00:36:09,970 --> 00:36:12,880
+CPU gitu pas nanti ketemu atas bawah dua
+
+915
+00:36:12,880 --> 00:36:15,760
+rem kiri kanan satu rem terus
+
+916
+00:36:15,760 --> 00:36:18,310
+background-color nya Nah ini saya mau
+
+917
+00:36:18,310 --> 00:36:20,440
+cari warna biru muda ya yang sama dengan
+
+918
+00:36:20,440 --> 00:36:22,780
+ini ini saya udah bikinin warnanya
+
+919
+00:36:22,780 --> 00:36:26,500
+kalian boleh copy aja nih pakai ini e2e
+
+920
+00:36:26,500 --> 00:36:29,680
+DFF atau mencari warna sendiri sekali
+
+921
+00:36:29,680 --> 00:36:32,440
+lagi silahkan save kita lihat balik ke
+
+922
+00:36:32,440 --> 00:36:36,430
+sini kita refresh Nah sekarang kita udah
+
+923
+00:36:36,430 --> 00:36:40,000
+punya tuh tulisan tagline ini garis sama
+
+924
+00:36:40,000 --> 00:36:41,890
+tulisan bawahnya dan tombol kita hapus
+
+925
+00:36:41,890 --> 00:36:45,810
+sajalah eh balik ke sini cari jumbotron
+
+926
+00:36:45,810 --> 00:36:49,480
+akhirnya hapus v-nya hapus buttonnya
+
+927
+00:36:49,480 --> 00:36:54,760
+hapus Sudah save dulu gosip tinggal kita
+
+928
+00:36:54,760 --> 00:36:57,250
+butuh apa kita butuh gambar teman-teman
+
+929
+00:36:57,250 --> 00:36:59,800
+nih buat bikin ini ya jadi silahkan
+
+930
+00:36:59,800 --> 00:37:02,800
+temen-temen cari gambar lu sekarang cari
+
+931
+00:37:02,800 --> 00:37:05,170
+gambar di komputernya terus nanti di
+
+932
+00:37:05,170 --> 00:37:06,980
+Visual Studio code ya di sini kita bikin
+
+933
+00:37:06,980 --> 00:37:08,570
+Terus sekarang oleh rekan bikin pale
+
+934
+00:37:08,570 --> 00:37:12,260
+skin folder kita kasih nama IMG nanti
+
+935
+00:37:12,260 --> 00:37:13,850
+kita copykan gambar kita kesini silahkan
+
+936
+00:37:13,850 --> 00:37:15,980
+dicari dulu ini Kebetulan saya udah
+
+937
+00:37:15,980 --> 00:37:18,430
+punya gambarnya simpen disini ini
+
+938
+00:37:18,430 --> 00:37:20,420
+gambarnya ukurannya enggak usah terlalu
+
+939
+00:37:20,420 --> 00:37:23,290
+besar yang saya punya ukurannya itu
+
+940
+00:37:23,290 --> 00:37:27,859
+Berapa 700 kali 700 tuh ya kalau sudah
+
+941
+00:37:27,859 --> 00:37:30,020
+sekarang di sini pasti udah ada tuh kita
+
+942
+00:37:30,020 --> 00:37:33,680
+Panggil disini IMG caranya pakai tqm
+
+943
+00:37:33,680 --> 00:37:37,010
+g-tab src ya kita Arahkan ke gambar kita
+
+944
+00:37:37,010 --> 00:37:40,220
+tadi Berarti ada di folder IMG flash
+
+945
+00:37:40,220 --> 00:37:42,260
+tahu langsung ketemu kalau bener
+
+946
+00:37:42,260 --> 00:37:45,109
+foldernya langsung ada klik Sandika klt
+
+947
+00:37:45,109 --> 00:37:47,869
+nya kita kasih nama kita atau caption
+
+948
+00:37:47,869 --> 00:37:52,010
+penjelasan gambarnya coba kita seks
+
+949
+00:37:52,010 --> 00:37:56,050
+kalian masih terlalu besar sekarang kita
+
+950
+00:37:56,050 --> 00:37:58,640
+kecilin dulu deh kita kecilin ya caranya
+
+951
+00:37:58,640 --> 00:38:01,270
+kalian boleh tambahin with telah di sini
+
+952
+00:38:01,270 --> 00:38:03,619
+nggak bisa dicek di sini aja langsung
+
+953
+00:38:03,619 --> 00:38:06,990
+kita kasih berapa misalnya
+
+954
+00:38:06,990 --> 00:38:10,740
+Hai nah cukup map Okelah 200 Jaya ini
+
+955
+00:38:10,740 --> 00:38:12,050
+Kebetulan punya saya bujursangkar
+
+956
+00:38:12,050 --> 00:38:14,100
+sebaiknya punya kalian juga jadikan
+
+957
+00:38:14,100 --> 00:38:16,140
+bujursangkar suwe Nanti kalau kita bikin
+
+958
+00:38:16,140 --> 00:38:17,730
+dia jadi lingkaran-lingkaran yang
+
+959
+00:38:17,730 --> 00:38:19,860
+sempurna diedit dululah edit silakan
+
+960
+00:38:19,860 --> 00:38:21,960
+pakai Photoshop boleh pakai aplikasi
+
+961
+00:38:21,960 --> 00:38:23,820
+pengubah gambar kalian atau kalian bisa
+
+962
+00:38:23,820 --> 00:38:26,010
+pakai layanan website yang namanya
+
+963
+00:38:26,010 --> 00:38:28,550
+squash ya teman-temannya nih WhatsApp
+
+964
+00:38:28,550 --> 00:38:31,140
+nah ini keren banget ya kalian bisa
+
+965
+00:38:31,140 --> 00:38:33,540
+melakukan riset pada image melakukan
+
+966
+00:38:33,540 --> 00:38:35,369
+kompresi pada image biar nggak terlalu
+
+967
+00:38:35,369 --> 00:38:37,770
+besar bisa pakai ini tinggal cari
+
+968
+00:38:37,770 --> 00:38:40,080
+gambarnya masakan saya pakai yang tadi
+
+969
+00:38:40,080 --> 00:38:42,810
+ya Punya saya ini punya saya ukurannya
+
+970
+00:38:42,810 --> 00:38:46,170
+422 KB sebetulnya udah cukup kecil tapi
+
+971
+00:38:46,170 --> 00:38:47,910
+kalau kalian pengen lebih kecil lagi
+
+972
+00:38:47,910 --> 00:38:50,880
+bisa dikompres aja nih pilih kompresinya
+
+973
+00:38:50,880 --> 00:38:54,360
+yang misalkan saya biarkan pakai mojkt
+
+974
+00:38:54,360 --> 00:38:56,820
+Terus qualitynya mau kualitasnya bagus
+
+975
+00:38:56,820 --> 00:38:59,010
+atau kualitasnya biasa aja tapi
+
+976
+00:38:59,010 --> 00:39:00,900
+ukurannya kecil lihat nih sekarang
+
+977
+00:39:00,900 --> 00:39:04,080
+ukuran jadi 19,2 Padahal saya kurangin
+
+978
+00:39:04,080 --> 00:39:05,820
+kualitasnya seperti ini dan kalau
+
+979
+00:39:05,820 --> 00:39:06,970
+dilihat
+
+980
+00:39:06,970 --> 00:39:09,310
+enggak terlalu beda gitu yang sebelah
+
+981
+00:39:09,310 --> 00:39:11,560
+kanan hasil udah dikompres terlihat ada
+
+982
+00:39:11,560 --> 00:39:13,900
+sedikit sih ya Kelihatan tapi kalau kita
+
+983
+00:39:13,900 --> 00:39:15,970
+lihat secara detail atau kita gedein Dek
+
+984
+00:39:15,970 --> 00:39:18,670
+kualitasnya ginilah Ya udah atau kalian
+
+985
+00:39:18,670 --> 00:39:21,640
+ori size klik rize jadi berapa boleh
+
+986
+00:39:21,640 --> 00:39:23,890
+karena saya udah kotak sempurna udah
+
+987
+00:39:23,890 --> 00:39:27,190
+tinggal kita download medownload kita
+
+988
+00:39:27,190 --> 00:39:29,650
+pindahkan saya Timpa aja ya saya tim PON
+
+989
+00:39:29,650 --> 00:39:32,950
+gambarnya replace udah deh sekarang
+
+990
+00:39:32,950 --> 00:39:35,140
+gambar saya ukurannya sama tapi jauh
+
+991
+00:39:35,140 --> 00:39:36,880
+lebih kecil jadi lebih ringan di
+
+992
+00:39:36,880 --> 00:39:38,860
+websitenya tips sekarang kita pindahin
+
+993
+00:39:38,860 --> 00:39:41,170
+dulu semuanya ke tengah supaya ada di
+
+994
+00:39:41,170 --> 00:39:43,660
+tengah rapih caranya gimana gampang aja
+
+995
+00:39:43,660 --> 00:39:46,410
+kita kasih ya Jadi jumbotron ya teks
+
+996
+00:39:46,410 --> 00:39:51,010
+center sekarang ke tengah kita ganti
+
+997
+00:39:51,010 --> 00:39:54,390
+tulisannya Tulisannya jadi Nama saya
+
+998
+00:39:54,390 --> 00:39:58,060
+terus ceritanya untuk paragraf line ini
+
+999
+00:39:58,060 --> 00:40:00,220
+kita ganti jadi taglinenya misalkan saya
+
+1000
+00:40:00,220 --> 00:40:04,060
+adalah seorang dosen dan juga konten
+
+1001
+00:40:04,060 --> 00:40:06,980
+kreator n kalian Boleh silakan isi
+
+1002
+00:40:06,980 --> 00:40:09,410
+Nda dengan apapun lah CPNS kayak gini
+
+1003
+00:40:09,410 --> 00:40:11,570
+udah beres tinggal kita bikin gambarnya
+
+1004
+00:40:11,570 --> 00:40:14,270
+bulat caranya adalah kita kasih kelas
+
+1005
+00:40:14,270 --> 00:40:18,360
+digambarnya nama kelasnya adalah rounded
+
+1006
+00:40:18,360 --> 00:40:23,550
+Hai circle Oke maka otomatis jadi bulet
+
+1007
+00:40:23,550 --> 00:40:25,710
+kalau misalkan gambar kalian persegi
+
+1008
+00:40:25,710 --> 00:40:28,440
+panjang pasti bulatnya gepeng makanya
+
+1009
+00:40:28,440 --> 00:40:30,420
+ubah dulu jadi bujursangkar gambarnya
+
+1010
+00:40:30,420 --> 00:40:32,460
+kalau sudah saya mau kasih sedikit
+
+1011
+00:40:32,460 --> 00:40:35,340
+border nah kalau mau kasih border itu
+
+1012
+00:40:35,340 --> 00:40:37,530
+Coba kita lihat saya lupa lagi balik ke
+
+1013
+00:40:37,530 --> 00:40:39,360
+dokumentasi jangan lupa balikin lagi
+
+1014
+00:40:39,360 --> 00:40:42,720
+kelima ya tadi kita keempat cuman pengen
+
+1015
+00:40:42,720 --> 00:40:45,510
+nyontek jumbotron nya aja kita cari
+
+1016
+00:40:45,510 --> 00:40:49,800
+image Nah ada image thumbnail supaya ada
+
+1017
+00:40:49,800 --> 00:40:52,770
+disekitarnya ada bordir putih ya caranya
+
+1018
+00:40:52,770 --> 00:40:58,890
+Tinggal Kasih img-thumbnail Oke kita
+
+1019
+00:40:58,890 --> 00:41:01,350
+Saif kita lihat eh sekarang jadi
+
+1020
+00:41:01,350 --> 00:41:05,670
+disekitarnya ada border putih ya Mantap
+
+1021
+00:41:05,670 --> 00:41:09,600
+ini bagian section kedua yaitu jumbotron
+
+1022
+00:41:09,600 --> 00:41:12,510
+sekarang kita masuk ke section yang
+
+1023
+00:41:12,510 --> 00:41:14,580
+ketiga ini mulai seru nih dissection
+
+1024
+00:41:14,580 --> 00:41:16,830
+Yang ketiga ini kita akan bikin
+
+1025
+00:41:16,830 --> 00:41:18,340
+ceritanya
+
+1026
+00:41:18,340 --> 00:41:20,230
+shoutmix atau About Us kalau
+
+1027
+00:41:20,230 --> 00:41:22,300
+perusahaannya Jadi ceritanya menjelaskan
+
+1028
+00:41:22,300 --> 00:41:24,310
+tentang diri saya tuh adalah siapa
+
+1029
+00:41:24,310 --> 00:41:26,500
+misalnya ada pengalamannya atau
+
+1030
+00:41:26,500 --> 00:41:27,700
+cerita-cerita yang lain silakan
+
+1031
+00:41:27,700 --> 00:41:29,890
+dimasukkan kesini nah disini kita akan
+
+1032
+00:41:29,890 --> 00:41:32,800
+bikin paragrafnya dua kolom Nah kalau
+
+1033
+00:41:32,800 --> 00:41:34,810
+kita udah ngomongin kolom seperti ini ya
+
+1034
+00:41:34,810 --> 00:41:37,000
+ini tiga kolom nah ini kita butuh yang
+
+1035
+00:41:37,000 --> 00:41:40,450
+namanya bootstrap layout system dan kita
+
+1036
+00:41:40,450 --> 00:41:43,030
+kalau computrade ada bagian layout Oke
+
+1037
+00:41:43,030 --> 00:41:45,250
+tapi sebelum kita kesini semok tambahkan
+
+1038
+00:41:45,250 --> 00:41:46,870
+sesuatu yang keren kau diawalkan kalian
+
+1039
+00:41:46,870 --> 00:41:49,120
+lihat tuh garisnya enggak lurus seperti
+
+1040
+00:41:49,120 --> 00:41:50,830
+yang kita punya ini ya Garis dari
+
+1041
+00:41:50,830 --> 00:41:52,690
+website kita tuh enggak Lurus ada
+
+1042
+00:41:52,690 --> 00:41:55,000
+gelombangnya nah gimana cara bikin
+
+1043
+00:41:55,000 --> 00:41:57,970
+gelombangnya ada sebuah website keren
+
+1044
+00:41:57,970 --> 00:42:03,430
+yang namanya get webs.com nah ini keren
+
+1045
+00:42:03,430 --> 00:42:05,670
+banget teman-teman jadi kita bisa bikin
+
+1046
+00:42:05,670 --> 00:42:07,930
+gelombang-gelombang an lah gitu ya pada
+
+1047
+00:42:07,930 --> 00:42:09,610
+website kita karena kayaknya sekarang
+
+1048
+00:42:09,610 --> 00:42:10,960
+ini lagi ngetrend dibikin
+
+1049
+00:42:10,960 --> 00:42:13,150
+website-website yang bergelombang begini
+
+1050
+00:42:13,150 --> 00:42:15,310
+ini bisa kalian modifikasi yang pertama
+
+1051
+00:42:15,310 --> 00:42:17,290
+gelombangnya pengen gimana Apakah pengen
+
+1052
+00:42:17,290 --> 00:42:18,350
+smooth begini
+
+1053
+00:42:18,350 --> 00:42:20,300
+atau pakaian kotak-kotak atau pengen
+
+1054
+00:42:20,300 --> 00:42:22,940
+Lancip Terus gelombangnya mau ngadep ke
+
+1055
+00:42:22,940 --> 00:42:25,160
+atas atau menghadap ke bawah kayaknya
+
+1056
+00:42:25,160 --> 00:42:27,050
+kita pakai yang ini aja deh yang belum
+
+1057
+00:42:27,050 --> 00:42:30,230
+bang biasa ya terus mereka atas Terus
+
+1058
+00:42:30,230 --> 00:42:32,240
+mau warnanya seperti apa terus ini
+
+1059
+00:42:32,240 --> 00:42:34,940
+opacity nya kalau kita kecilin nanti dia
+
+1060
+00:42:34,940 --> 00:42:37,130
+semakin transparan nah terus yang di
+
+1061
+00:42:37,130 --> 00:42:39,920
+sebelah kanan ini ada konfigurasi mau
+
+1062
+00:42:39,920 --> 00:42:41,960
+seberapa banyak yang bisa kalian geser
+
+1063
+00:42:41,960 --> 00:42:43,640
+jadi makin ke kanan tu makin banyak
+
+1064
+00:42:43,640 --> 00:42:45,530
+gelombangnya ya silakan kalau kalian mau
+
+1065
+00:42:45,530 --> 00:42:47,120
+aneh-aneh gelombangnya seperti apa
+
+1066
+00:42:47,120 --> 00:42:49,790
+silakan bebas aja disini atau Kalian mau
+
+1067
+00:42:49,790 --> 00:42:52,670
+bikin rendem cariin yang rendem lah saya
+
+1068
+00:42:52,670 --> 00:42:54,050
+sih biasanya pakai rendem jadi nggak
+
+1069
+00:42:54,050 --> 00:42:55,820
+usah mikir lagi soalnya saya mau
+
+1070
+00:42:55,820 --> 00:42:58,520
+gelombangnya nambah dikit deh nah gini
+
+1071
+00:42:58,520 --> 00:43:01,040
+kayaknya ya Saya pengen garisnya yang
+
+1072
+00:43:01,040 --> 00:43:03,740
+warna abu-abu ini warna abu-abu ini
+
+1073
+00:43:03,740 --> 00:43:06,230
+bergelombang ya Berarti sekarang saya
+
+1074
+00:43:06,230 --> 00:43:09,230
+harus cari tahu warna abu-abunya Eh
+
+1075
+00:43:09,230 --> 00:43:10,910
+bukan abu-abu ini biru muda sebetulnya
+
+1076
+00:43:10,910 --> 00:43:13,220
+kalau pengen tahu warnanya akan dari
+
+1077
+00:43:13,220 --> 00:43:15,140
+kita udah punya warnanya ya warnanya ada
+
+1078
+00:43:15,140 --> 00:43:18,360
+di sini kopi aja kita
+
+1079
+00:43:18,360 --> 00:43:21,210
+masukkan kesini klik warnanya masukkin
+
+1080
+00:43:21,210 --> 00:43:24,870
+ke sini nah kalau sudah kita copy nah
+
+1081
+00:43:24,870 --> 00:43:26,310
+caranya kalian bisa Klik tanda download
+
+1082
+00:43:26,310 --> 00:43:30,090
+ini terus kita pilih copy svg code nah
+
+1083
+00:43:30,090 --> 00:43:32,550
+copy oh salah ya harusnya warna putih
+
+1084
+00:43:32,550 --> 00:43:34,410
+dan kita mau gelombangnya warna putih
+
+1085
+00:43:34,410 --> 00:43:36,750
+ada di bawah sini detik ini kita ganti
+
+1086
+00:43:36,750 --> 00:43:39,180
+dulu kita Klik di luar kita ganti
+
+1087
+00:43:39,180 --> 00:43:42,090
+warnanya jadi putih FF aja ini nah
+
+1088
+00:43:42,090 --> 00:43:45,450
+kelihatan ya klik copy atau Kalian mau
+
+1089
+00:43:45,450 --> 00:43:47,850
+modifikasi silakan layang warnanya mau
+
+1090
+00:43:47,850 --> 00:43:50,550
+apa Bebas kita balik ke codingan kita
+
+1091
+00:43:50,550 --> 00:43:53,100
+caranya kita simpan di dalam section
+
+1092
+00:43:53,100 --> 00:43:55,950
+jumbotron ini kesimpen di sini kalau
+
+1093
+00:43:55,950 --> 00:43:57,990
+kita kontroversi nah ini bentuknya
+
+1094
+00:43:57,990 --> 00:44:00,570
+adalah svg Eh kalian gak perlu pedulikan
+
+1095
+00:44:00,570 --> 00:44:03,480
+ini maksudnya apa ini biarin aja ini
+
+1096
+00:44:03,480 --> 00:44:05,730
+sintaks dari SPG untuk membentuk
+
+1097
+00:44:05,730 --> 00:44:08,550
+gelombang tadi Ya silahkan di save ini
+
+1098
+00:44:08,550 --> 00:44:10,440
+biarkan kalau di auto save jadi ke bawah
+
+1099
+00:44:10,440 --> 00:44:12,210
+gini enggak papa terus kita balik ke
+
+1100
+00:44:12,210 --> 00:44:14,220
+sini coba kita refresh harusnya
+
+1101
+00:44:14,220 --> 00:44:16,560
+Hai kamu jadi ada gelombangnya tapi ini
+
+1102
+00:44:16,560 --> 00:44:19,050
+apa namanya gara-gara kita kasih pending
+
+1103
+00:44:19,050 --> 00:44:21,450
+tadi di jumbotron ya jadinya nggak Keren
+
+1104
+00:44:21,450 --> 00:44:23,849
+ya ketahuan triknya jadinya ya kita apa
+
+1105
+00:44:23,849 --> 00:44:25,800
+sule dengan teman-teman jadi kita balik
+
+1106
+00:44:25,800 --> 00:44:27,480
+ke codingan kita kita cuman butuh
+
+1107
+00:44:27,480 --> 00:44:30,090
+wedding atasnya aja atau bahkan enggak
+
+1108
+00:44:30,090 --> 00:44:31,890
+butuh Pending kali ya kalau begini kita
+
+1109
+00:44:31,890 --> 00:44:36,210
+hilangkan Nah gini tapi ini terlalu
+
+1110
+00:44:36,210 --> 00:44:37,859
+mepet yah makanya kita kasih padding-top
+
+1111
+00:44:37,859 --> 00:44:45,599
+aja wedding top kita kasih 2000 sekarang
+
+1112
+00:44:45,599 --> 00:44:47,520
+kita punya gelombang di sini kontaknya
+
+1113
+00:44:47,520 --> 00:44:50,940
+teman-teman Sip kalau sudah baru kita
+
+1114
+00:44:50,940 --> 00:44:53,190
+masuk ke section berikutnya Oke kita
+
+1115
+00:44:53,190 --> 00:44:55,170
+kesini lagi kita bikin section
+
+1116
+00:44:55,170 --> 00:44:59,070
+Berikutnya ini namanya about ya kita
+
+1117
+00:44:59,070 --> 00:45:02,340
+tutup dulu akhir about di sini kita
+
+1118
+00:45:02,340 --> 00:45:06,000
+bikin section yang nama kelasnya adalah
+
+1119
+00:45:06,000 --> 00:45:11,400
+about Oke atau kita kasih ide ya biar
+
+1120
+00:45:11,400 --> 00:45:13,260
+nanti sekalian kalau kita mau bikin
+
+1121
+00:45:13,260 --> 00:45:14,230
+scrollnya
+
+1122
+00:45:14,230 --> 00:45:18,160
+Hai Nikita kasih ID about Nah baru
+
+1123
+00:45:18,160 --> 00:45:19,600
+dalamnya kita akan bikin Lay out-nya
+
+1124
+00:45:19,600 --> 00:45:21,340
+tadi Seperti yang saya bilang Oke kita
+
+1125
+00:45:21,340 --> 00:45:23,530
+lihat cara bikin lautnya kita kembali ke
+
+1126
+00:45:23,530 --> 00:45:25,630
+dokumentasi busted kita masuk ke lay-out
+
+1127
+00:45:25,630 --> 00:45:28,180
+kita masuk ke bagian kontainer
+
+1128
+00:45:28,180 --> 00:45:30,430
+teman-teman jadi cara bikin layout di
+
+1129
+00:45:30,430 --> 00:45:33,550
+bootstrap itu kita harus bikin dulu Div
+
+1130
+00:45:33,550 --> 00:45:35,560
+yang nama kelasnya kontainer baru di
+
+1131
+00:45:35,560 --> 00:45:38,290
+dalam kontainer kita bikin grade
+
+1132
+00:45:38,290 --> 00:45:40,960
+acaranya kita bikin throw didalam roh
+
+1133
+00:45:40,960 --> 00:45:42,790
+kita bikin kolom Jadi kalau misalkan
+
+1134
+00:45:42,790 --> 00:45:45,790
+kita mau bikin sebuah baris yang ada
+
+1135
+00:45:45,790 --> 00:45:48,190
+tiga kolom didalamnya tadi kita butuh
+
+1136
+00:45:48,190 --> 00:45:52,090
+satu kontainer 1 row dan 3 kolom gay
+
+1137
+00:45:52,090 --> 00:45:55,060
+kolomnya kalau mau ukurannya sama kalian
+
+1138
+00:45:55,060 --> 00:45:57,160
+cukup Tulis Call aja kalau kalian mau
+
+1139
+00:45:57,160 --> 00:46:01,240
+nambahin disebelah kanannya Dedes SM l g
+
+1140
+00:46:01,240 --> 00:46:04,109
+atau XL itu nanti untuk menentukan
+
+1141
+00:46:04,109 --> 00:46:06,369
+responsifnya ya kalau bingung nanti kita
+
+1142
+00:46:06,369 --> 00:46:08,200
+lihat deh pokoknya kita butuh row dan
+
+1143
+00:46:08,200 --> 00:46:10,300
+kolom kalau mau ada ukurannya misalkan
+
+1144
+00:46:10,300 --> 00:46:12,130
+kolom yang satu lebih besar dari kolom
+
+1145
+00:46:12,130 --> 00:46:14,240
+yang lain kalian nanti kasih angka pasti
+
+1146
+00:46:14,240 --> 00:46:16,910
+Hai maksimal jumlah kolom dalam satu
+
+1147
+00:46:16,910 --> 00:46:19,400
+baris itu enggak boleh lebih dari 12
+
+1148
+00:46:19,400 --> 00:46:22,280
+jadi maksimal 12 kita coba Bikin jadi
+
+1149
+00:46:22,280 --> 00:46:24,070
+kita butuh apa tadi kontainer dulu ya
+
+1150
+00:46:24,070 --> 00:46:26,390
+kontainer kalian bisa tulis titik
+
+1151
+00:46:26,390 --> 00:46:28,850
+kontainer lalu tap lalu dalamnya kita
+
+1152
+00:46:28,850 --> 00:46:32,540
+butuh titik row lalu tap nah terus dalam
+
+1153
+00:46:32,540 --> 00:46:34,310
+kita butuh berapa kolom kali lihat
+
+1154
+00:46:34,310 --> 00:46:36,680
+design kita kelihatan ini kan dua kolom
+
+1155
+00:46:36,680 --> 00:46:38,270
+ya tapi teman-teman jangan lupa kita
+
+1156
+00:46:38,270 --> 00:46:40,880
+punya judul dari tiap-tiap section
+
+1157
+00:46:40,880 --> 00:46:43,400
+turunnya judul-judulnya kalian boleh
+
+1158
+00:46:43,400 --> 00:46:45,710
+anggap ini juga sebagai satu baris
+
+1159
+00:46:45,710 --> 00:46:48,740
+dimana baris ini hanya punya satu kolom
+
+1160
+00:46:48,740 --> 00:46:51,140
+yang lebar banget ada tulisannya kita
+
+1161
+00:46:51,140 --> 00:46:53,360
+tulis di tengah jadi caranya di dalam
+
+1162
+00:46:53,360 --> 00:46:56,360
+sini kita butuh titik call baru di dalam
+
+1163
+00:46:56,360 --> 00:46:58,700
+kali ini kita tulis H2 misalnya karena
+
+1164
+00:46:58,700 --> 00:47:01,430
+H1 itu tadi kita udah tulis untuk judul
+
+1165
+00:47:01,430 --> 00:47:04,670
+website kita lihat dua yang tulisannya
+
+1166
+00:47:04,670 --> 00:47:06,410
+adalah judul dari tiap seksinya berarti
+
+1167
+00:47:06,410 --> 00:47:09,950
+ini apa about me Key Coba kita save dulu
+
+1168
+00:47:09,950 --> 00:47:11,770
+Kita lihat kembali ke sini kita refresh
+
+1169
+00:47:11,770 --> 00:47:14,220
+ini udah ada about me nggak
+
+1170
+00:47:14,220 --> 00:47:17,790
+bikin dia di tengah ya caranya kasih aja
+
+1171
+00:47:17,790 --> 00:47:19,800
+di rohingya mau diroya boleh mau di
+
+1172
+00:47:19,800 --> 00:47:24,030
+kolom ya boleh teks center sudah ke
+
+1173
+00:47:24,030 --> 00:47:27,359
+tengah baru selanjutnya kita bikin row
+
+1174
+00:47:27,359 --> 00:47:29,160
+berikutnya Jadi kalian Tulis disini
+
+1175
+00:47:29,160 --> 00:47:31,800
+materi jangan salah nulis dirinya titik
+
+1176
+00:47:31,800 --> 00:47:34,349
+row lagi yang di dalam rohnya sekarang
+
+1177
+00:47:34,349 --> 00:47:36,380
+kita punya dua kolom kita boleh tulis
+
+1178
+00:47:36,380 --> 00:47:39,990
+divx.com terus kita duplikat aja ya LTE
+
+1179
+00:47:39,990 --> 00:47:42,599
+shift bawah kolom yang pertama itu ada
+
+1180
+00:47:42,599 --> 00:47:45,510
+paragrafnya yang ada tulisannya ini kita
+
+1181
+00:47:45,510 --> 00:47:47,040
+enggak tahu tulisannya apa untuk
+
+1182
+00:47:47,040 --> 00:47:49,080
+sementara jadi kita isi dengan tulisan
+
+1183
+00:47:49,080 --> 00:47:51,450
+sembarang kalian boleh tulis lorem huruf
+
+1184
+00:47:51,450 --> 00:47:53,760
+kecil semua lalu kita kasih tahu kalian
+
+1185
+00:47:53,760 --> 00:47:57,090
+mau berapa angka akan saya tulis 20 Nah
+
+1186
+00:47:57,090 --> 00:47:59,640
+sekarang saya akan dibuatkan 20 kata
+
+1187
+00:47:59,640 --> 00:48:02,820
+rendem zat Tab udah Terus disebelah
+
+1188
+00:48:02,820 --> 00:48:06,630
+kanannya saya juga butuh paragraf yang
+
+1189
+00:48:06,630 --> 00:48:08,220
+ada lo remnya ini sedikit lebih
+
+1190
+00:48:08,220 --> 00:48:12,660
+banyaklah 25 kata Yanti ada dua paragraf
+
+1191
+00:48:12,660 --> 00:48:14,230
+yang tulisannya beda
+
+1192
+00:48:14,230 --> 00:48:18,220
+huruf x kita lihat nah sudah ada
+
+1193
+00:48:18,220 --> 00:48:20,350
+sekarang teman-teman lihat nih kalau
+
+1194
+00:48:20,350 --> 00:48:23,500
+misalkan kita tulis atau saya bikin gini
+
+1195
+00:48:23,500 --> 00:48:25,210
+deh supaya bisa disco atasnya untuk
+
+1196
+00:48:25,210 --> 00:48:28,330
+sementara daripada kehalang kita tulis
+
+1197
+00:48:28,330 --> 00:48:33,369
+body ini mint Hei ini kita hapus 2000
+
+1198
+00:48:33,369 --> 00:48:36,880
+pixel aja ya supaya saya bisa ngescroll
+
+1199
+00:48:36,880 --> 00:48:40,510
+gini aja menjadi kelihatan ya Nah
+
+1200
+00:48:40,510 --> 00:48:43,540
+sekarang kita punya dua buah kolom yang
+
+1201
+00:48:43,540 --> 00:48:45,550
+ukuran yang enggak saya spesifikasi kan
+
+1202
+00:48:45,550 --> 00:48:48,670
+kalo kita nggak tulis ukurannya maka dua
+
+1203
+00:48:48,670 --> 00:48:52,000
+kolom ini akan sama besar maksimal 12
+
+1204
+00:48:52,000 --> 00:48:53,830
+Jadi kalau misalkan kita tahu maksimal
+
+1205
+00:48:53,830 --> 00:48:56,320
+12 kita punya dua kolom yang sama besar
+
+1206
+00:48:56,320 --> 00:48:58,900
+berarti ukurannya masing-masing 6 dan 6
+
+1207
+00:48:58,900 --> 00:49:01,090
+eh kalau kita pengin yang satu lebih
+
+1208
+00:49:01,090 --> 00:49:03,250
+kecil kita kasih angka besaran kolom
+
+1209
+00:49:03,250 --> 00:49:05,470
+pertama saya cuman mau tiga berarti
+
+1210
+00:49:05,470 --> 00:49:07,990
+kolom kedua itu akan ngisi sisanya kalau
+
+1211
+00:49:07,990 --> 00:49:09,580
+enggak kita tulisin jadi kolom kedua
+
+1212
+00:49:09,580 --> 00:49:13,480
+berapa 12 kurangi tiga mi9se Kau seri
+
+1213
+00:49:13,480 --> 00:49:14,240
+Flash
+
+1214
+00:49:14,240 --> 00:49:18,170
+Hai ini ceritanya 9 ukurannya ini tiga
+
+1215
+00:49:18,170 --> 00:49:20,900
+tapi saya pengennya enggak terlalu besar
+
+1216
+00:49:20,900 --> 00:49:22,910
+tapi untuk keduanya misalkan
+
+1217
+00:49:22,910 --> 00:49:25,520
+masing-masing berapa masing-masing empat
+
+1218
+00:49:25,520 --> 00:49:29,210
+deh nah kalau masing-masing empat gini
+
+1219
+00:49:29,210 --> 00:49:32,480
+saya udah suka dengan lebarnya tetapi
+
+1220
+00:49:32,480 --> 00:49:34,070
+posisinya kan jadi ke kiri ya
+
+1221
+00:49:34,070 --> 00:49:36,230
+temen-temen ya Saya pengen di tengah nah
+
+1222
+00:49:36,230 --> 00:49:38,390
+ini gimana caranya kali ini ada spray
+
+1223
+00:49:38,390 --> 00:49:41,510
+song nih suka di tengah gimana nah ini
+
+1224
+00:49:41,510 --> 00:49:44,420
+kelebihan dari bootstrap versi 5 ini
+
+1225
+00:49:44,420 --> 00:49:46,520
+karena semuanya sekarang sudah dalam
+
+1226
+00:49:46,520 --> 00:49:49,850
+bentuk flexbox cara mindahin ya itu
+
+1227
+00:49:49,850 --> 00:49:51,650
+gampang banget ya kalau misalkan kita
+
+1228
+00:49:51,650 --> 00:49:55,010
+tahu kelas-kelasnya memisahkan kita ke
+
+1229
+00:49:55,010 --> 00:50:00,890
+kolom terus kita Scroll Nah kita Mau
+
+1230
+00:50:00,890 --> 00:50:02,750
+ngatur kolom kita kayak gimana kalau
+
+1231
+00:50:02,750 --> 00:50:04,190
+kita pengin kolom kita ada di
+
+1232
+00:50:04,190 --> 00:50:06,380
+tengah-tengah yang kalau kalian udah
+
+1233
+00:50:06,380 --> 00:50:09,200
+pernah tahu flexbox ada sebuah properti
+
+1234
+00:50:09,200 --> 00:50:11,900
+yang namanya justify-content kita bisa
+
+1235
+00:50:11,900 --> 00:50:14,220
+isi dengan apa bisa Center
+
+1236
+00:50:14,220 --> 00:50:17,670
+bisa start and bisa spesifik Twin bisa
+
+1237
+00:50:17,670 --> 00:50:19,500
+Space around macam-macam ya kalian bisa
+
+1238
+00:50:19,500 --> 00:50:21,900
+lihat di sini nah sama si bus rap itu
+
+1239
+00:50:21,900 --> 00:50:23,940
+Kita tinggal panggil nama kelas yang
+
+1240
+00:50:23,940 --> 00:50:26,070
+kita butuhin aja kalo pengen di tengah
+
+1241
+00:50:26,070 --> 00:50:29,010
+kayak gini ya ini Tengah bagus gini kita
+
+1242
+00:50:29,010 --> 00:50:31,740
+tinggal pakai justify-content-center di
+
+1243
+00:50:31,740 --> 00:50:35,550
+rohingya ini bisa dicopy aja kita
+
+1244
+00:50:35,550 --> 00:50:39,000
+pindahin keruhnya pakai spasi jangan
+
+1245
+00:50:39,000 --> 00:50:42,270
+lupa gini maka yang tadinya mepet kiri
+
+1246
+00:50:42,270 --> 00:50:45,900
+jadi tengah tuh enak ya kalau pengen di
+
+1247
+00:50:45,900 --> 00:50:48,560
+tengahnya luas ada yang namanya
+
+1248
+00:50:48,560 --> 00:50:52,890
+justify-content-between jadi elemen yang
+
+1249
+00:50:52,890 --> 00:50:55,470
+satu mepet kiri elemen yang dua meped
+
+1250
+00:50:55,470 --> 00:50:59,820
+kanan ya Ini keren banget nih kita pakai
+
+1251
+00:50:59,820 --> 00:51:03,570
+Messenger aja deh sip sudah selanjutnya
+
+1252
+00:51:03,570 --> 00:51:06,240
+saya pengen tulisannya agak besar ya
+
+1253
+00:51:06,240 --> 00:51:08,730
+untuk tulisan yang agak besar ini kita
+
+1254
+00:51:08,730 --> 00:51:12,660
+bisa kasih sebuah kelas lupa lagi saya
+
+1255
+00:51:12,660 --> 00:51:14,230
+kelasnya Coba kita contek
+
+1256
+00:51:14,230 --> 00:51:20,369
+nah font size to ada pohon size-nya
+
+1257
+00:51:20,369 --> 00:51:24,780
+mana-mana kita Scroll nah ini dia ada
+
+1258
+00:51:24,780 --> 00:51:30,420
+1-6 kita kasih 5 deh naik dikit aja
+
+1259
+00:51:31,560 --> 00:51:34,960
+fs5403 tulisannya agak gede dikit nah
+
+1260
+00:51:34,960 --> 00:51:38,290
+Sip sudah oke paling kita bikin supaya
+
+1261
+00:51:38,290 --> 00:51:41,070
+dia rata tengah jadi kita kasih teks
+
+1262
+00:51:41,070 --> 00:51:47,200
+kantor oke terus kita kasih deh ini
+
+1263
+00:51:47,200 --> 00:51:49,750
+jarak yah jarak antar judul dengan
+
+1264
+00:51:49,750 --> 00:51:52,630
+tulisannya kita kasih margin nah di
+
+1265
+00:51:52,630 --> 00:51:54,490
+bootstrap itu ada youtility kita bisa
+
+1266
+00:51:54,490 --> 00:51:56,890
+pakai margin dan padding dengan mudah
+
+1267
+00:51:56,890 --> 00:51:59,020
+contohnya kalau mau margin Nih misalnya
+
+1268
+00:51:59,020 --> 00:52:01,590
+di dalam roh yang atas kita kasih
+
+1269
+00:52:01,590 --> 00:52:04,720
+margin-bottom kalau kalian nulis MB itu
+
+1270
+00:52:04,720 --> 00:52:07,720
+margin-bottom mt margin-top margin-left
+
+1271
+00:52:07,720 --> 00:52:11,020
+itu MS margin start margin-right itu
+
+1272
+00:52:11,020 --> 00:52:14,240
+me4g n kalau m aja B
+
+1273
+00:52:14,240 --> 00:52:17,540
+keempat Sisinya nilainya itu 1-5 kalau
+
+1274
+00:52:17,540 --> 00:52:19,010
+nggak salah ya sebagai selera kita
+
+1275
+00:52:19,010 --> 00:52:24,640
+pastikan ada di utilities spesing margin
+
+1276
+00:52:24,640 --> 00:52:29,140
+mp4t buat top B Batam Es buat left
+
+1277
+00:52:29,140 --> 00:52:32,570
+e-goat read Nah karena ini katanya kita
+
+1278
+00:52:32,570 --> 00:52:34,880
+bisa bikin website kita tuh berubah
+
+1279
+00:52:34,880 --> 00:52:37,550
+orientasinya jadi right to left misalnya
+
+1280
+00:52:37,550 --> 00:52:39,770
+website kalian isinya huruf Arab semua
+
+1281
+00:52:39,770 --> 00:52:41,660
+maka kalian kasih tahu bahwa website
+
+1282
+00:52:41,660 --> 00:52:44,600
+kalian rtl Nah kalau udah rtl semuanya
+
+1283
+00:52:44,600 --> 00:52:46,460
+ngebalik gitu yang tadinya left jadi
+
+1284
+00:52:46,460 --> 00:52:48,230
+Ride yang tadinya Ride jadi left
+
+1285
+00:52:48,230 --> 00:52:52,010
+nilainya cuma bisa 0-5 nah kita coba
+
+1286
+00:52:52,010 --> 00:52:57,920
+margin-bottom nya tiga aja Nah kita sip
+
+1287
+00:52:57,920 --> 00:53:00,530
+udah kayak cukup ya ini untuk about my
+
+1288
+00:53:00,530 --> 00:53:03,260
+teman-teman selanjutnya kita akan masuk
+
+1289
+00:53:03,260 --> 00:53:05,270
+ke bagian ketiga nah ini juga Seruni
+
+1290
+00:53:05,270 --> 00:53:08,420
+yaitu membuat sebuah kartu untuk
+
+1291
+00:53:08,420 --> 00:53:10,369
+menyimpan gambar dan caption Gimana
+
+1292
+00:53:10,369 --> 00:53:12,350
+caranya untuk membuat elemen Kartini
+
+1293
+00:53:12,350 --> 00:53:14,220
+batik kita butuh section lagi
+
+1294
+00:53:14,220 --> 00:53:16,440
+yang kita butuh section yang didalamnya
+
+1295
+00:53:16,440 --> 00:53:18,750
+nanti kita bikin 2 row lagi ada robot
+
+1296
+00:53:18,750 --> 00:53:22,349
+judul dan roh untuk cardnya Oke kita
+
+1297
+00:53:22,349 --> 00:53:24,480
+buat dulu section Ya silakan kembali ke
+
+1298
+00:53:24,480 --> 00:53:27,480
+codingannya Karang disini kita bikin
+
+1299
+00:53:27,480 --> 00:53:31,520
+dulu penandanya ini adalah untuk Project
+
+1300
+00:53:31,520 --> 00:53:36,950
+dan akhir Project ya kita bikin section
+
+1301
+00:53:36,950 --> 00:53:39,420
+kalau mau langsung bikin ID kalian boleh
+
+1302
+00:53:39,420 --> 00:53:43,650
+Kasih tanda pagar Project kalau pakai
+
+1303
+00:53:43,650 --> 00:53:46,290
+detik dia bikinnya kelas oke sekarang di
+
+1304
+00:53:46,290 --> 00:53:49,109
+dalamnya Oh sebelumnya kita bikin
+
+1305
+00:53:49,109 --> 00:53:50,490
+gelombangnya dulu teman-teman sekarang
+
+1306
+00:53:50,490 --> 00:53:53,640
+gelombang untuk bagian yang bawah untuk
+
+1307
+00:53:53,640 --> 00:53:56,490
+ini disini gelombangnya berarti
+
+1308
+00:53:56,490 --> 00:53:58,710
+gelombangnya masih nempel ke section
+
+1309
+00:53:58,710 --> 00:54:01,980
+about tapi sekarang warnanya biru muda
+
+1310
+00:54:01,980 --> 00:54:06,330
+biar sama seperti ini oh ini kan warna
+
+1311
+00:54:06,330 --> 00:54:09,780
+putih ya buat ngakalin warna dari about
+
+1312
+00:54:09,780 --> 00:54:11,310
+nih sekarang kita mau bikin warna biru
+
+1313
+00:54:11,310 --> 00:54:13,920
+muda buat ngakalin warna dari Project
+
+1314
+00:54:13,920 --> 00:54:14,230
+Pop
+
+1315
+00:54:14,230 --> 00:54:17,080
+di balik ke sini kita cari gelombang
+
+1316
+00:54:17,080 --> 00:54:18,850
+yang kita mau jangan sama ya nanti
+
+1317
+00:54:18,850 --> 00:54:20,980
+monoton kalau sama kita contek warnanya
+
+1318
+00:54:20,980 --> 00:54:24,520
+dulu kita contek ke sini dan kita copy
+
+1319
+00:54:24,520 --> 00:54:29,140
+kita kesini ganti dulu warnanya kita
+
+1320
+00:54:29,140 --> 00:54:31,840
+cari sama ayah jumlah gelombangnya sama
+
+1321
+00:54:31,840 --> 00:54:35,140
+aja atau kurangilah kayak gini aja
+
+1322
+00:54:35,140 --> 00:54:38,470
+gelombang Nah gini kayaknya cukup jangan
+
+1323
+00:54:38,470 --> 00:54:40,660
+cari lagi nah ini aja deh Ya silahkan
+
+1324
+00:54:40,660 --> 00:54:43,450
+cari yang kalian sukai terus copy SPG
+
+1325
+00:54:43,450 --> 00:54:46,180
+nya kalau sudah balik ke codingannya
+
+1326
+00:54:46,180 --> 00:54:49,119
+kita simpan di bagian about di akhir
+
+1327
+00:54:49,119 --> 00:54:53,050
+sini sebelum tutup sectionnya simpan
+
+1328
+00:54:53,050 --> 00:54:56,970
+save kita lihat balik sini kita refresh
+
+1329
+00:54:56,970 --> 00:55:00,490
+nah Aduh Ya udah gelombangnya nanti kita
+
+1330
+00:55:00,490 --> 00:55:03,640
+tinggal warnain section kita jadi warna
+
+1331
+00:55:03,640 --> 00:55:06,880
+yang sama sip Scroll ke sini kita bikin
+
+1332
+00:55:06,880 --> 00:55:10,540
+dulu Div dengan kelas kontainer data
+
+1333
+00:55:10,540 --> 00:55:12,900
+dirumuskan kontainer row kolom
+
+1334
+00:55:12,900 --> 00:55:14,240
+didalamnya
+
+1335
+00:55:14,240 --> 00:55:18,290
+Crow didalamnya ada kolom ini satu aja
+
+1336
+00:55:18,290 --> 00:55:21,440
+untuk nyimpen apa ini judul Ya ini
+
+1337
+00:55:21,440 --> 00:55:27,160
+adalah my Project eh kita lihat dulu
+
+1338
+00:55:27,160 --> 00:55:30,320
+dari flash ini my projects tapi kita
+
+1339
+00:55:30,320 --> 00:55:32,840
+kasih warna dulu sectionnya kalian boleh
+
+1340
+00:55:32,840 --> 00:55:35,890
+bikin di sini ajalah ya Kita kasih style
+
+1341
+00:55:35,890 --> 00:55:39,320
+background-color Kita samain atau mau
+
+1342
+00:55:39,320 --> 00:55:42,160
+kita tulis dishes biar rapi boleh juga
+
+1343
+00:55:42,160 --> 00:55:46,630
+kita bikin gini di sini ada waidya
+
+1344
+00:55:46,630 --> 00:55:53,510
+project kita copy ini ya kita ke sini
+
+1345
+00:55:53,510 --> 00:55:56,480
+kita refresh naikkan Ida Laila dipakai
+
+1346
+00:55:56,480 --> 00:56:00,500
+tanda pagar flash nah sip gitu udah
+
+1347
+00:56:00,500 --> 00:56:02,869
+nyatu tinggal kita bikin dia ke tengah
+
+1348
+00:56:02,869 --> 00:56:09,320
+pakai teks center oke mantap tinggal
+
+1349
+00:56:09,320 --> 00:56:11,150
+kita bikin baris berikutnya baris
+
+1350
+00:56:11,150 --> 00:56:14,220
+berikutnya kita betul row
+
+1351
+00:56:14,220 --> 00:56:17,430
+Soalnya kita butuh hollow kita mau bikin
+
+1352
+00:56:17,430 --> 00:56:19,680
+berapa kolom Nah kita mau bikin supaya
+
+1353
+00:56:19,680 --> 00:56:22,410
+sih kolomnya ini ada tiga akan hadiah
+
+1354
+00:56:22,410 --> 00:56:24,780
+kalau dari desain kita cardnya tuh ada
+
+1355
+00:56:24,780 --> 00:56:27,180
+tiga Jadi kalau misalnya nanti galeri
+
+1356
+00:56:27,180 --> 00:56:29,190
+kalian tuh ada lebih dari tiga otomatis
+
+1357
+00:56:29,190 --> 00:56:31,320
+dia turun Sendiri menyesuaikan posisinya
+
+1358
+00:56:31,320 --> 00:56:33,869
+tidak nanti di dalamnya gini Saya punya
+
+1359
+00:56:33,869 --> 00:56:39,030
+sebuah kolom yang ukurannya 4 keduabelas
+
+1360
+00:56:39,030 --> 00:56:42,480
+bagi 34 ya gini kayak baru di dalamnya
+
+1361
+00:56:42,480 --> 00:56:45,330
+kita simpan komponen cardnya Nah kita
+
+1362
+00:56:45,330 --> 00:56:47,280
+contek lu komponen kalian balik ke
+
+1363
+00:56:47,280 --> 00:56:49,290
+dokumentasi bootstrap kita masuk
+
+1364
+00:56:49,290 --> 00:56:53,609
+komponen syari'at cari kartu yang simpel
+
+1365
+00:56:53,609 --> 00:56:56,790
+ya cuma ada gambar dan tulisan ini akan
+
+1366
+00:56:56,790 --> 00:56:58,859
+ada judul ada tombol kayaknya terlalu
+
+1367
+00:56:58,859 --> 00:57:00,150
+ramai
+
+1368
+00:57:00,150 --> 00:57:03,119
+hai cari yang ini malah enggak ada
+
+1369
+00:57:03,119 --> 00:57:06,960
+gambar ya Bukan ini aja yang cuman image
+
+1370
+00:57:06,960 --> 00:57:10,619
+Oke kita copy klik copy balik ke
+
+1371
+00:57:10,619 --> 00:57:14,369
+codingan kita simpan ke dalam sini save
+
+1372
+00:57:14,369 --> 00:57:16,049
+dulu biar rapi yang akan kita lakukan
+
+1373
+00:57:16,049 --> 00:57:20,099
+pertama adalah kita akan Hapus dulu deh
+
+1374
+00:57:20,099 --> 00:57:22,880
+with nya supaya duitnya memenuhi dari
+
+1375
+00:57:22,880 --> 00:57:25,349
+kolomnya Oke kita hapus kulitnya
+
+1376
+00:57:25,349 --> 00:57:27,450
+berikutnya kita butuh gambar teman-teman
+
+1377
+00:57:27,450 --> 00:57:29,640
+ya kalian silahkan cari gambar untuk
+
+1378
+00:57:29,640 --> 00:57:31,589
+merepresentasikan Project kalian atau
+
+1379
+00:57:31,589 --> 00:57:33,809
+galeri kalian tapi saya mau cari gambar
+
+1380
+00:57:33,809 --> 00:57:35,700
+yang keren-keren ya biasanya saya cari
+
+1381
+00:57:35,700 --> 00:57:37,520
+gambar tuh di website yang namanya and
+
+1382
+00:57:37,520 --> 00:57:41,670
+splash.com yang unsplash.com ini bebas
+
+1383
+00:57:41,670 --> 00:57:44,339
+pakai ya Tapi sebaiknya katanya
+
+1384
+00:57:44,339 --> 00:57:47,579
+cantumkan credit ke tiap-tiap fotografer
+
+1385
+00:57:47,579 --> 00:57:49,289
+yang katanya Nah sekarang saya mau cari
+
+1386
+00:57:49,289 --> 00:57:51,299
+gambar apa nih yang keren Ih misalnya
+
+1387
+00:57:51,299 --> 00:57:56,190
+saya mau cari mechanical keyboard ya
+
+1388
+00:57:56,190 --> 00:57:58,500
+bisa keren-keren Tuhan keren-keren
+
+1389
+00:57:58,500 --> 00:58:00,130
+gambarnya teman-teman nah
+
+1390
+00:58:00,130 --> 00:58:02,170
+Hai ini kalian boleh cari gambarnya
+
+1391
+00:58:02,170 --> 00:58:03,970
+kalau udah ketemu kalian klik gambarnya
+
+1392
+00:58:03,970 --> 00:58:06,550
+trus klik download yang tanda panahnya
+
+1393
+00:58:06,550 --> 00:58:09,130
+terus pilih aja ini ukurannya ada banyak
+
+1394
+00:58:09,130 --> 00:58:11,080
+ya tapi yang paling kecil ya kita pilih
+
+1395
+00:58:11,080 --> 00:58:14,740
+paling kecil 640 kali 426 click to
+
+1396
+00:58:14,740 --> 00:58:18,070
+download kita simpan di folder kita pot
+
+1397
+00:58:18,070 --> 00:58:21,550
+Folio didesktop ya image sekarang kita
+
+1398
+00:58:21,550 --> 00:58:23,140
+bikin folder baru deh disini bikin
+
+1399
+00:58:23,140 --> 00:58:27,220
+folder kita kasih nama Project konser
+
+1400
+00:58:27,220 --> 00:58:29,140
+teh ini adalah Project kita walaupun
+
+1401
+00:58:29,140 --> 00:58:31,150
+gambarnya saya ngambil ya terus kita
+
+1402
+00:58:31,150 --> 00:58:34,030
+ganti nama gambarnya biar gampang nanti
+
+1403
+00:58:34,030 --> 00:58:39,370
+manggilnya jadi 12 3-5 Lah katanya say
+
+1404
+00:58:39,370 --> 00:58:42,070
+Thanks katanya ini ke Mas Paul Explorer
+
+1405
+00:58:42,070 --> 00:58:46,960
+kita cari gambar yang lain ya silakan
+
+1406
+00:58:46,960 --> 00:58:50,140
+Kalian cari aja ini saya mau cari supaya
+
+1407
+00:58:50,140 --> 00:58:54,640
+ada lima mandi kreditnya akan saya
+
+1408
+00:58:54,640 --> 00:58:57,960
+cantumkan di bagian Deskripsi video
+
+1409
+00:58:57,960 --> 00:59:01,090
+keren-keren ya keyboard-nya teman-teman
+
+1410
+00:59:01,090 --> 00:59:04,490
+ke-4 satu lagi Woi nada keyboard beneran
+
+1411
+00:59:04,490 --> 00:59:06,170
+keyboard lama itu beneran keyboard
+
+1412
+00:59:06,170 --> 00:59:11,960
+mechanical USB Oke sudah punya 5 terus
+
+1413
+00:59:11,960 --> 00:59:14,480
+kita Panggil satu dulu aja ya nanti
+
+1414
+00:59:14,480 --> 00:59:16,310
+kalau udah satu udah kelihatannya Oke
+
+1415
+00:59:16,310 --> 00:59:19,700
+baru kita ganti kita ganti src nya jadi
+
+1416
+00:59:19,700 --> 00:59:24,770
+IMG flash Project flash satu ini kita
+
+1417
+00:59:24,770 --> 00:59:27,230
+ganti aja LTE nya selalu isi altea
+
+1418
+00:59:27,230 --> 00:59:30,140
+teman-temannya project1 nah ini
+
+1419
+00:59:30,140 --> 00:59:32,690
+tulisannya kalau kita sheet1 Project
+
+1420
+00:59:32,690 --> 00:59:35,530
+kita kembali ke sini kita refresh maka
+
+1421
+00:59:35,530 --> 00:59:38,120
+Project yang tiada di sebelah kiri ya
+
+1422
+00:59:38,120 --> 00:59:40,160
+Kenapa karena kita udah kasih 4 kalau
+
+1423
+00:59:40,160 --> 00:59:42,650
+kolomnya kita hilangkan maka dia akan
+
+1424
+00:59:42,650 --> 00:59:47,090
+memenuhi kontainer Saudi akan penuh 12
+
+1425
+00:59:47,090 --> 00:59:49,250
+kolom dihabisin Tapi karena kita udah
+
+1426
+00:59:49,250 --> 00:59:52,550
+tahu kita mau bikin empat ya udah
+
+1427
+00:59:52,550 --> 00:59:55,910
+nyisain buat dua lagi nah sekarang ini
+
+1428
+00:59:55,910 --> 00:59:57,560
+sebenarnya gampang aja tinggal kita copy
+
+1429
+00:59:57,560 --> 00:59:59,420
+ya kolomnya temen-temen Jadi kalian
+
+1430
+00:59:59,420 --> 01:00:00,150
+boleh blog
+
+1431
+01:00:00,150 --> 01:00:03,539
+qwerty Criss biasanya supaya nggak salah
+
+1432
+01:00:03,539 --> 01:00:05,849
+ngeblok nya saya tutup dulu nih kalau
+
+1433
+01:00:05,849 --> 01:00:08,460
+kalian Arahkan kursornya ke sini dia
+
+1434
+01:00:08,460 --> 01:00:12,319
+bisa nutup dari this buka sampai ditutup
+
+1435
+01:00:12,319 --> 01:00:14,819
+dia nutup Jadi kalian mau punya Gampang
+
+1436
+01:00:14,819 --> 01:00:17,039
+tinggal Blok aja gini cuma nanti jangan
+
+1437
+01:00:17,039 --> 01:00:19,770
+lupa dibuka lagi ya kalau sudah diblok
+
+1438
+01:00:19,770 --> 01:00:23,490
+gini tinggal pencet alt shift bawah tuh
+
+1439
+01:00:23,490 --> 01:00:26,099
+dua Nah pasti udah ngopi sebanyak dua
+
+1440
+01:00:26,099 --> 01:00:29,849
+kali ya buka lagi kalau kita save kita
+
+1441
+01:00:29,849 --> 01:00:32,819
+refresh Tuh udah ada tiga langsung rapih
+
+1442
+01:00:32,819 --> 01:00:34,380
+teman-teman tinggal kita ganti ah
+
+1443
+01:00:34,380 --> 01:00:37,500
+tulisan-tulisannya ini project1 udah
+
+1444
+01:00:37,500 --> 01:00:45,420
+yang ini Project 2 ya Ini Project 3 tak
+
+1445
+01:00:45,420 --> 01:00:48,329
+coba tiga dulu aja dah beres nih
+
+1446
+01:00:48,329 --> 01:00:50,069
+kelihatannya udah rapi ya walaupun ini
+
+1447
+01:00:50,069 --> 01:00:53,490
+agak beda karena rasionya foto yang saya
+
+1448
+01:00:53,490 --> 01:00:55,619
+punya itu enggak sama enggak papa nah
+
+1449
+01:00:55,619 --> 01:00:58,349
+Klaten udah keren tapi ada kekurangan
+
+1450
+01:00:58,349 --> 01:01:00,130
+nih kalau misalkan kita buka dihen
+
+1451
+01:01:00,130 --> 01:01:03,970
+Hai dia akan maksa tetap 3 kolom
+
+1452
+01:01:03,970 --> 01:01:06,490
+teman-teman masa kecil itu dia akan
+
+1453
+01:01:06,490 --> 01:01:08,860
+tetap maksa 3 kolom sampai kapanpun 3
+
+1454
+01:01:08,860 --> 01:01:11,620
+kolom jelek banget nih Kalau dibuka di
+
+1455
+01:01:11,620 --> 01:01:13,600
+handphone gambarnya enggak kelihatan
+
+1456
+01:01:13,600 --> 01:01:16,180
+tulisannya panjang kebawah gini nggak
+
+1457
+01:01:16,180 --> 01:01:19,590
+bagus Nah inilah Kenapa kita butuh
+
+1458
+01:01:19,590 --> 01:01:23,080
+mainkan responsifnya jadi responsive itu
+
+1459
+01:01:23,080 --> 01:01:25,000
+kalau kita lihat lagi di lay-out di
+
+1460
+01:01:25,000 --> 01:01:27,130
+dokumentasi bus Arabnya ada yang namanya
+
+1461
+01:01:27,130 --> 01:01:30,460
+breakpoints nah ini untuk ngasih tahu
+
+1462
+01:01:30,460 --> 01:01:33,400
+tiap-tiap titik dimana design
+
+1463
+01:01:33,400 --> 01:01:35,980
+responsifnya berubah di bootstrap jadi
+
+1464
+01:01:35,980 --> 01:01:38,470
+ada yang namanya small keyboard-nya SM
+
+1465
+01:01:38,470 --> 01:01:41,140
+ini akan berubah ketika lebar layarnya
+
+1466
+01:01:41,140 --> 01:01:45,490
+minimal lima tujuh delapan sampai 768
+
+1467
+01:01:45,490 --> 01:01:47,740
+itu ini akan berubah untuk medium dari
+
+1468
+01:01:47,740 --> 01:01:51,190
+768 sampai 992 Jadi kalau kalian pengen
+
+1469
+01:01:51,190 --> 01:01:53,470
+ketika lebar layarnya sampai berapa
+
+1470
+01:01:53,470 --> 01:01:55,990
+Terus semua kolomnya berubah jadi satu
+
+1471
+01:01:55,990 --> 01:01:58,060
+kolom Enggak lagi ngikutin awalnya
+
+1472
+01:01:58,060 --> 01:02:00,140
+berapa kalian harus mainin in
+
+1473
+01:02:00,140 --> 01:02:02,360
+khasnya namanya contoh gini kalau kita
+
+1474
+01:02:02,360 --> 01:02:04,040
+bergerak ke sini kita ubah sekarang
+
+1475
+01:02:04,040 --> 01:02:07,550
+kolomnya nambahin MD untuk ketiganya ya
+
+1476
+01:02:07,550 --> 01:02:12,550
+ini satu atasnya Dash MD atasnya juga
+
+1477
+01:02:12,550 --> 01:02:16,910
+Desember kalau kita tulis MD nah ini
+
+1478
+01:02:16,910 --> 01:02:20,740
+sekarang jadi keren kalau kita refresh
+
+1479
+01:02:20,770 --> 01:02:23,690
+Oh ada yang salah kebalik ya Lori
+
+1480
+01:02:23,690 --> 01:02:28,870
+kebalik harusnya col-md 4md dulu MD dulu
+
+1481
+01:02:28,870 --> 01:02:35,510
+MD padb atau lagi md4 teen fiction harus
+
+1482
+01:02:35,510 --> 01:02:37,660
+disimpan di tengah Ya namanya juga infix
+
+1483
+01:02:37,660 --> 01:02:43,010
+diantaranya dari fresh Nah lihat nih
+
+1484
+01:02:43,010 --> 01:02:45,830
+sekarang kalau misalkan lebarnya diatas
+
+1485
+01:02:45,830 --> 01:02:49,430
+berangkat dari kalau MD tuh 768 maka dia
+
+1486
+01:02:49,430 --> 01:02:51,470
+akan tetap 3 kolom tapi begitu lebih
+
+1487
+01:02:51,470 --> 01:02:53,540
+kecil dari itu berubah jadi satu
+
+1488
+01:02:53,540 --> 01:02:56,110
+kolomnya kalau kita Klik Kanan inspect
+
+1489
+01:02:56,110 --> 01:02:59,150
+Nyalakan lagi responsifnya nih lihat
+
+1490
+01:02:59,150 --> 01:03:00,150
+kalau
+
+1491
+01:03:00,150 --> 01:03:04,260
+SR berubah dia jadi satu kolom jadi
+
+1492
+01:03:04,260 --> 01:03:06,839
+enggak ngeganggu ah dan ini kita lupa
+
+1493
+01:03:06,839 --> 01:03:09,480
+perbaiki untuk yang about ya teman-teman
+
+1494
+01:03:09,480 --> 01:03:12,240
+boleh perbaiki Nanti sip cuman ini
+
+1495
+01:03:12,240 --> 01:03:13,980
+terlalu mepet ya berarti kita harus
+
+1496
+01:03:13,980 --> 01:03:16,890
+kasih margin untuk tiap-tiap cardnya Oke
+
+1497
+01:03:16,890 --> 01:03:19,349
+kita perbaiki satu persatu atau minimal
+
+1498
+01:03:19,349 --> 01:03:22,440
+udah tambah keren kita kasih dari mulai
+
+1499
+01:03:22,440 --> 01:03:25,109
+yang pertama ini margin-bottom misalnya
+
+1500
+01:03:25,109 --> 01:03:31,410
+kita kasih 3 semuanya mb3 dan Ini satu
+
+1501
+01:03:31,410 --> 01:03:37,039
+lagi mp3que Riko direfresh kecilin
+
+1502
+01:03:37,039 --> 01:03:38,910
+berjarak sekarang ya enggak terlalu
+
+1503
+01:03:38,910 --> 01:03:42,660
+mepet aman Oke selanjutnya about tadi
+
+1504
+01:03:42,660 --> 01:03:45,170
+kita lupa Scroll ke atas teman-teman
+
+1505
+01:03:45,170 --> 01:03:48,000
+kita perbaiki sekarang kita butuh disini
+
+1506
+01:03:48,000 --> 01:03:51,770
+juga sama md4
+
+1507
+01:03:53,230 --> 01:03:56,350
+al-kautsar rifles paragraf juga jadi
+
+1508
+01:03:56,350 --> 01:03:59,200
+Tapi tuh jadi ke bawah enggak terlalu
+
+1509
+01:03:59,200 --> 01:04:03,040
+mepet ya jadi keren Kalau dibuka di
+
+1510
+01:04:03,040 --> 01:04:05,260
+handphone masih enak dilihat ya kalau
+
+1511
+01:04:05,260 --> 01:04:09,670
+kita buka di misalnya di iPhone 5 kecil
+
+1512
+01:04:09,670 --> 01:04:13,090
+banget tuh masih enak dilihat bayangin
+
+1513
+01:04:13,090 --> 01:04:15,730
+kalau tadi enggak pakai MD ini akan
+
+1514
+01:04:15,730 --> 01:04:18,850
+tetap 3 kolom kalau kita buka di Galaxy
+
+1515
+01:04:18,850 --> 01:04:29,290
+S5 majanto mantap sekarang tinggal
+
+1516
+01:04:29,290 --> 01:04:31,180
+tambahin dua lagi karena kita punya lima
+
+1517
+01:04:31,180 --> 01:04:33,630
+gambar jadi caranya sama umpetin dulu
+
+1518
+01:04:33,630 --> 01:04:41,700
+klik blog klt shift bawah 12 semoga lagi
+
+1519
+01:04:41,700 --> 01:04:46,630
+nah yang terakhir ini jadi lima Project
+
+1520
+01:04:46,630 --> 01:04:53,240
+5 atasnya Project 46
+
+1521
+01:04:53,240 --> 01:05:00,170
+hai oke save refresh nah udah oke tapi
+
+1522
+01:05:00,170 --> 01:05:02,390
+ini mau saya bikin lebih oke lagi nih
+
+1523
+01:05:02,390 --> 01:05:04,850
+karena kan Project kalian ini enggak
+
+1524
+01:05:04,850 --> 01:05:07,430
+genap ya kalau enam sih rapih bisa kelas
+
+1525
+01:05:07,430 --> 01:05:09,200
+dulu kalau enam sih rapi tapi karena
+
+1526
+01:05:09,200 --> 01:05:11,300
+yang kalian punya 5 eh dia nanggung gitu
+
+1527
+01:05:11,300 --> 01:05:13,490
+kalau kalian pengen bikin ini ada di
+
+1528
+01:05:13,490 --> 01:05:17,180
+tengah sama aja kita manfaatin kesaktian
+
+1529
+01:05:17,180 --> 01:05:20,000
+dari flexbox lagi Jadi kalian bisa kasih
+
+1530
+01:05:20,000 --> 01:05:23,990
+gironya justify-content apa gitu ya
+
+1531
+01:05:23,990 --> 01:05:26,990
+kalau mau senter boleh jadi aku tengah
+
+1532
+01:05:26,990 --> 01:05:30,770
+tuh menjadi keren tuh kalau mau yang
+
+1533
+01:05:30,770 --> 01:05:32,210
+lain bisa kan ada yang namanya event
+
+1534
+01:05:32,210 --> 01:05:38,300
+lispy Fenly Oh ini agak renggang event
+
+1535
+01:05:38,300 --> 01:05:41,240
+itu maksudnya spasi kiri kanannya itu
+
+1536
+01:05:41,240 --> 01:05:45,250
+sama semua ya kita center lagi aja lah
+
+1537
+01:05:45,250 --> 01:05:47,690
+kayak gini macam-macam ada center ada YG
+
+1538
+01:05:47,690 --> 01:05:50,930
+Family ada between ada start ada m ada
+
+1539
+01:05:50,930 --> 01:05:53,220
+satu lagi trope ya lupa
+
+1540
+01:05:53,220 --> 01:06:00,510
+Hai kalau kita lihat di kolom Star
+
+1541
+01:06:00,510 --> 01:06:02,849
+center enaro untuk satu lagi around
+
+1542
+01:06:02,849 --> 01:06:05,940
+around between evenly Itu semua adalah
+
+1543
+01:06:05,940 --> 01:06:08,400
+properti dari flexbox kita juga punya
+
+1544
+01:06:08,400 --> 01:06:09,930
+videonya Hai teman-teman pengen belajar
+
+1545
+01:06:09,930 --> 01:06:12,900
+lebih dalam mengenai flexbox di CSS Oke
+
+1546
+01:06:12,900 --> 01:06:15,270
+sip terakhir ini terlalu mepet kita
+
+1547
+01:06:15,270 --> 01:06:17,940
+kasih jarak sama kayak yang lain kita
+
+1548
+01:06:17,940 --> 01:06:21,690
+kasih dimana Di sini aja kali ya Diro
+
+1549
+01:06:21,690 --> 01:06:24,530
+untuk teksnya kita kasih margin-bottom
+
+1550
+01:06:24,530 --> 01:06:29,280
+tiga ini biar sama-sama ini ini kan 3
+
+1551
+01:06:29,280 --> 01:06:32,520
+juga ini tiga Oke teman-teman jadi ini
+
+1552
+01:06:32,520 --> 01:06:35,790
+adalah untuk section Project selanjutnya
+
+1553
+01:06:35,790 --> 01:06:38,880
+kita akan masuk ke section untuk kontak
+
+1554
+01:06:38,880 --> 01:06:42,210
+kita balik ke codingan kita kita Tandai
+
+1555
+01:06:42,210 --> 01:06:48,950
+dulu ini adalah kontak dan akhir kontak
+
+1556
+01:06:48,950 --> 01:06:52,310
+Ayo kita bikin dulu section yang nama
+
+1557
+01:06:52,310 --> 01:06:56,030
+id-nya kontak di dalamnya kita bikin
+
+1558
+01:06:56,030 --> 01:07:04,130
+kontainer row kolom H2 yah Yesa malah
+
+1559
+01:07:04,130 --> 01:07:05,660
+harusnya sampai sini kalian udah dapet
+
+1560
+01:07:05,660 --> 01:07:11,480
+polanya nih contact me kalian kita
+
+1561
+01:07:11,480 --> 01:07:14,690
+refresh ayat ke bawah ya kontak Mini
+
+1562
+01:07:14,690 --> 01:07:19,359
+kita kasih dulu deh Rp3.000 biar nambah
+
+1563
+01:07:19,359 --> 01:07:24,369
+geser ke tengah kita kasih teks center
+
+1564
+01:07:24,369 --> 01:07:28,599
+biar ke tengah kita kasih lagi gelombang
+
+1565
+01:07:28,599 --> 01:07:32,210
+terkasih gelombang kita kesini cari lagi
+
+1566
+01:07:32,210 --> 01:07:33,770
+gelombang yang keren tapi ini warnanya
+
+1567
+01:07:33,770 --> 01:07:35,660
+harus putih sekarang temen-temen Nah ini
+
+1568
+01:07:35,660 --> 01:07:40,220
+aja kita ganti warnanya jadi putih kita
+
+1569
+01:07:40,220 --> 01:07:42,710
+copy berwarna bisa diganti di htmlnya
+
+1570
+01:07:42,710 --> 01:07:44,900
+tapi nggak papalah sini aja ya klik copy
+
+1571
+01:07:44,900 --> 01:07:48,930
+balik ke sini kita simpan di dalam bukan
+
+1572
+01:07:48,930 --> 01:07:52,940
+tapi di Project kita di akhir disini
+
+1573
+01:07:52,940 --> 01:07:57,480
+Coba kita lihat nah sip ya Jadi udah ada
+
+1574
+01:07:57,480 --> 01:08:01,140
+tuh gelombangnya yang pertama nih saya
+
+1575
+01:08:01,140 --> 01:08:02,839
+agak kurang suka nanti kita gantilah
+
+1576
+01:08:02,839 --> 01:08:07,020
+belakangan Oke untuk kontak ini nanti
+
+1577
+01:08:07,020 --> 01:08:09,599
+kita akan simpen tiga komponen aja ada
+
+1578
+01:08:09,599 --> 01:08:13,619
+nama ML sama pesannya ya kalau kita
+
+1579
+01:08:13,619 --> 01:08:17,549
+lihat di sini ada tiga itu Mama Imel
+
+1580
+01:08:17,549 --> 01:08:19,710
+rutinnya dipesannya dalam bentuk teks
+
+1581
+01:08:19,710 --> 01:08:23,250
+area jadi kita akan bikin dulu empatnya
+
+1582
+01:08:23,250 --> 01:08:25,830
+ya di bawah sini kita bikin Div yang
+
+1583
+01:08:25,830 --> 01:08:28,500
+nama kelasnya row seperti biasa di
+
+1584
+01:08:28,500 --> 01:08:31,049
+dalamnya kita bikin kolom-kolomnya cuma
+
+1585
+01:08:31,049 --> 01:08:33,600
+satu sebenarnya tapi enggak penuh 12
+
+1586
+01:08:33,600 --> 01:08:38,009
+kolom jadi saya pengennya kolom medium 8
+
+1587
+01:08:38,009 --> 01:08:40,738
+aja ya supaya nggak panjang-panjang amat
+
+1588
+01:08:40,738 --> 01:08:42,259
+ininya
+
+1589
+01:08:42,259 --> 01:08:44,179
+hai eh ini enggak terlalu panjang Karena
+
+1590
+01:08:44,179 --> 01:08:46,519
+kalau kita bikin dia 12 nih panjang
+
+1591
+01:08:46,519 --> 01:08:49,870
+banget kita bikin supaya Di tengah ini
+
+1592
+01:08:49,870 --> 01:08:52,359
+Hai inspeksi tengah ya bayangin kalau 12
+
+1593
+01:08:52,359 --> 01:08:55,330
+karena dia penuh segini 18 juga Menurut
+
+1594
+01:08:55,330 --> 01:08:57,399
+kalian terlalu panjang kurangin aja
+
+1595
+01:08:57,399 --> 01:09:01,029
+nanti Oke baru di dalamnya kita balik
+
+1596
+01:09:01,029 --> 01:09:04,000
+lagi contek lagi untuk forum itu ada di
+
+1597
+01:09:04,000 --> 01:09:06,819
+dalam komponen for ya kita lihat lu di
+
+1598
+01:09:06,819 --> 01:09:09,160
+dalam overview ada macam-macam ya Kita
+
+1599
+01:09:09,160 --> 01:09:11,979
+cuman butuh simpel aja input teks Ya di
+
+1600
+01:09:11,979 --> 01:09:14,350
+overview itu ada contohnya kayaknya ini
+
+1601
+01:09:14,350 --> 01:09:17,050
+kita copy Kita cuman butuh dua buah
+
+1602
+01:09:17,050 --> 01:09:18,819
+tekstil bahkan ininya pun kita nggak
+
+1603
+01:09:18,819 --> 01:09:21,370
+butuh nanti dihapus aja checkbox nya
+
+1604
+01:09:21,370 --> 01:09:23,290
+juga nggak butuh ini kayak buat login ya
+
+1605
+01:09:23,290 --> 01:09:25,240
+bisa dipakai untuk login Kalau kalian
+
+1606
+01:09:25,240 --> 01:09:27,220
+butuh login bisa pakai ini dan tombol
+
+1607
+01:09:27,220 --> 01:09:29,760
+kita butuh pakai jadi caranya copy aja
+
+1608
+01:09:29,760 --> 01:09:35,170
+klik copy balik ke sini kita simpan Nah
+
+1609
+01:09:35,170 --> 01:09:38,740
+kita save dulu baru kita edit oke yang
+
+1610
+01:09:38,740 --> 01:09:41,109
+pertama dulu ya kita lihat kayaknya
+
+1611
+01:09:41,109 --> 01:09:42,819
+untuk password kita nggak butuh nanti
+
+1612
+01:09:42,819 --> 01:09:46,870
+kita hapus jadi ini HP kita hapus tangga
+
+1613
+01:09:46,870 --> 01:09:49,880
+butuh untuk Check me out juga
+
+1614
+01:09:49,880 --> 01:09:54,020
+itu kita hapus tombol butuh tapi nanti
+
+1615
+01:09:54,020 --> 01:09:56,210
+belakangan diedit nya Nah kita mau
+
+1616
+01:09:56,210 --> 01:09:59,690
+duplikat Ini email kita duplikat Jadi
+
+1617
+01:09:59,690 --> 01:10:02,030
+kalian boleh blog kalian boleh pencet
+
+1618
+01:10:02,030 --> 01:10:05,540
+alt shift atas sekarang duplikatnya ke
+
+1619
+01:10:05,540 --> 01:10:08,179
+atas kita edit 11 yang pertama kita
+
+1620
+01:10:08,179 --> 01:10:11,780
+ganti label for ini adalah untuk normal
+
+1621
+01:10:11,780 --> 01:10:15,230
+ya new gitu kalian boleh tulis name lalu
+
+1622
+01:10:15,230 --> 01:10:18,139
+ini nama lengkap misalnya tipenya adalah
+
+1623
+01:10:18,139 --> 01:10:22,429
+teks bukan Email ID nya kita ganti jadi
+
+1624
+01:10:22,429 --> 01:10:25,699
+Naim discribe bayinya juga kita ganti
+
+1625
+01:10:25,699 --> 01:10:28,570
+jadi name aja ini nggak usah nggak perlu
+
+1626
+01:10:28,570 --> 01:10:31,100
+hapus saja Ini tulisan yang ada di
+
+1627
+01:10:31,100 --> 01:10:34,940
+bawahnya sini ini Kabuto ya hapus aja
+
+1628
+01:10:34,940 --> 01:10:37,699
+udah yang kedua adalah email batin kita
+
+1629
+01:10:37,699 --> 01:10:41,150
+ganti jadi email-email ajalah ya nggak
+
+1630
+01:10:41,150 --> 01:10:44,030
+usah pakai dress email udah oke ini
+
+1631
+01:10:44,030 --> 01:10:47,140
+jangan diganti Ini ganti email
+
+1632
+01:10:47,140 --> 01:10:54,150
+Hai ini ganti email oke Ini hapus saja
+
+1633
+01:10:54,720 --> 01:10:58,150
+sudah tinggal kita butuh text area kita
+
+1634
+01:10:58,150 --> 01:11:01,540
+lihat dulu ya Ini udah kita tinggal
+
+1635
+01:11:01,540 --> 01:11:04,120
+butuh text area teks area itu ada di
+
+1636
+01:11:04,120 --> 01:11:06,880
+bagian forum kontrol Jadi kalian klik
+
+1637
+01:11:06,880 --> 01:11:10,030
+forum kontrol nah ini ada contekan text
+
+1638
+01:11:10,030 --> 01:11:12,670
+areanya kopi aja ini karena pertama
+
+1639
+01:11:12,670 --> 01:11:16,360
+adalah input kita udah punya kita copy
+
+1640
+01:11:16,360 --> 01:11:21,260
+segini aja simpen disini ini
+
+1641
+01:11:21,260 --> 01:11:26,300
+Hai Oke kita ganti ini jadi pesan kita
+
+1642
+01:11:26,300 --> 01:11:29,690
+tulis pesan terus id-nya ganti jadi
+
+1643
+01:11:29,690 --> 01:11:33,650
+pesan Tentukan row mau berapa ya kita
+
+1644
+01:11:33,650 --> 01:11:35,870
+bikin tiga aja nggak papa terus baru di
+
+1645
+01:11:35,870 --> 01:11:39,020
+sini kirim sekali lagi ini for nya belum
+
+1646
+01:11:39,020 --> 01:11:42,860
+jalan hanya tampilan aja save balik sini
+
+1647
+01:11:42,860 --> 01:11:46,430
+refresh Nah sudah ada kepanjangan enggak
+
+1648
+01:11:46,430 --> 01:11:49,310
+Tolong tanyakan kurangin aja kurangin
+
+1649
+01:11:49,310 --> 01:11:55,130
+jadi berapa 66 kependekan lagi oh malah
+
+1650
+01:11:55,130 --> 01:11:57,500
+cukuplah ya cukup tinggal ke tengah in
+
+1651
+01:11:57,500 --> 01:11:59,750
+Gimana caranya kita danau yang caranya
+
+1652
+01:11:59,750 --> 01:12:04,520
+pakai lagi justify-content-center ini
+
+1653
+01:12:04,520 --> 01:12:06,410
+benar-benar mempermudah teman-teman ebf4
+
+1654
+01:12:06,410 --> 01:12:10,340
+kalau udah ada 4 dan 5 udah ada Oh
+
+1655
+01:12:10,340 --> 01:12:12,410
+mantap Oh jangan lupa kasih
+
+1656
+01:12:12,410 --> 01:12:18,890
+margin-bottom untuk tulisannya mb3 Oke
+
+1657
+01:12:18,890 --> 01:12:21,270
+save karena jadi ini
+
+1658
+01:12:21,270 --> 01:12:24,060
+Hai semuanya udah cukup okelah menurut
+
+1659
+01:12:24,060 --> 01:12:27,030
+saya tampilannya tinggal komponen
+
+1660
+01:12:27,030 --> 01:12:30,630
+terakhir komponen terakhir adalah puter
+
+1661
+01:12:30,630 --> 01:12:32,580
+ini gembala footer kita tinggal bikin
+
+1662
+01:12:32,580 --> 01:12:35,790
+warnanya biru sama seperti warna masbar
+
+1663
+01:12:35,790 --> 01:12:38,730
+kita jadi kita pakai Premier lagi terus
+
+1664
+01:12:38,730 --> 01:12:41,400
+kita kasih gelombang Oke sip-sip kita
+
+1665
+01:12:41,400 --> 01:12:44,010
+bikin dulu kita balik ke codingan kita
+
+1666
+01:12:44,010 --> 01:12:49,800
+kita bikin dulu contekannya footer dan
+
+1667
+01:12:49,800 --> 01:12:56,010
+akhir puter Nah untuk putar kebetulan
+
+1668
+01:12:56,010 --> 01:12:58,950
+ada tag HTML 5 yang sendiri Ini namanya
+
+1669
+01:12:58,950 --> 01:13:02,280
+footer itu gak perlu kita bikin section
+
+1670
+01:13:02,280 --> 01:13:04,710
+nama id-nya food nggak perlu karena ada
+
+1671
+01:13:04,710 --> 01:13:06,900
+sendiri Nah nanti di dalam ini simpel
+
+1672
+01:13:06,900 --> 01:13:10,400
+aja sih simpel aja Saya pengen punya
+
+1673
+01:13:10,400 --> 01:13:13,140
+tulisan-tulisannya gini kriyet ini
+
+1674
+01:13:13,140 --> 01:13:15,210
+ala-ala para Web Designer biasanya nulis
+
+1675
+01:13:15,210 --> 01:13:17,409
+kini banyak related with me
+
+1676
+01:13:17,409 --> 01:13:20,949
+I love bye gitu kan tadi cagalli
+
+1677
+01:13:20,949 --> 01:13:22,630
+sandhika Galih bisa diklik jadi saya
+
+1678
+01:13:22,630 --> 01:13:24,909
+punya a di sini nanti kita arahin
+
+1679
+01:13:24,909 --> 01:13:26,829
+misalnya arahin ke mana gede mau ke
+
+1680
+01:13:26,829 --> 01:13:30,039
+sosial media kita mau ke Youtube kita
+
+1681
+01:13:30,039 --> 01:13:34,090
+coba serahin ke Instagram aja Instagram
+
+1682
+01:13:34,090 --> 01:13:36,249
+slash sandhika Galih Ya silakan buat
+
+1683
+01:13:36,249 --> 01:13:39,630
+yang belum follow boleh di folder dicopy
+
+1684
+01:13:39,630 --> 01:13:43,900
+balik ke sini dah tulis aja nama kita di
+
+1685
+01:13:43,900 --> 01:13:52,059
+sini sandhika Galih lihat udah ada kita
+
+1686
+01:13:52,059 --> 01:13:55,449
+kasih dulu warna background kita kasih
+
+1687
+01:13:55,449 --> 01:13:57,369
+warna background nya disinilah atau
+
+1688
+01:13:57,369 --> 01:13:59,889
+disini juga bisa sih langsung aja kita
+
+1689
+01:13:59,889 --> 01:14:06,760
+kasih kelas bg-primary Oh jadi udah
+
+1690
+01:14:06,760 --> 01:14:08,800
+kasih warna background ini kita
+
+1691
+01:14:08,800 --> 01:14:10,570
+Perlihatkan ini sebenarnya udah sampai
+
+1692
+01:14:10,570 --> 01:14:12,720
+bawah ini nggak perlu lagi
+
+1693
+01:14:12,720 --> 01:14:17,310
+Hai Nah gini udah tinggal kita benerin
+
+1694
+01:14:17,310 --> 01:14:19,620
+kita bikin supaya tulisannya warna putih
+
+1695
+01:14:19,620 --> 01:14:26,310
+semua jadi teks white warna putih out
+
+1696
+01:14:26,310 --> 01:14:27,960
+kenapa tulisan suntikannya enggak warna
+
+1697
+01:14:27,960 --> 01:14:30,480
+putih Karena yang harusnya putih bukan
+
+1698
+01:14:30,480 --> 01:14:33,210
+paragrafnya tapi akhirnya ini kalian
+
+1699
+01:14:33,210 --> 01:14:38,940
+bisa kasih di sini kelas teks white udah
+
+1700
+01:14:38,940 --> 01:14:42,380
+siap pengen tulisannya bol bol itu
+
+1701
+01:14:42,380 --> 01:14:46,320
+jangan lupa ada font White
+
+1702
+01:14:46,320 --> 01:14:50,970
+e-book enggak salah bukan lupa-lupa
+
+1703
+01:14:50,970 --> 01:14:58,080
+secara disini font white on white
+
+1704
+01:14:58,080 --> 01:15:07,820
+font-weight menah uvuvwevwevwe Bolt Oke
+
+1705
+01:15:07,820 --> 01:15:10,190
+kalau lupa enggak papa searching aja
+
+1706
+01:15:10,190 --> 01:15:12,630
+dokumentasi akan selalu menyelamatkan
+
+1707
+01:15:12,630 --> 01:15:16,260
+kita kita refresh by sudah tinggal kita
+
+1708
+01:15:16,260 --> 01:15:21,120
+ke tengah in kasih apa text-center Oke
+
+1709
+01:15:21,120 --> 01:15:22,890
+lihat sampai sini temen-temen CSS kita
+
+1710
+01:15:22,890 --> 01:15:26,480
+Cuman segini pada website kita lengkap
+
+1711
+01:15:26,480 --> 01:15:28,740
+gelombang-gelombang kelompoknya lupa
+
+1712
+01:15:28,740 --> 01:15:31,080
+kita tambahin gelombang kita cari lagi
+
+1713
+01:15:31,080 --> 01:15:35,130
+gelombang kasih warna dulu Oh sekarang
+
+1714
+01:15:35,130 --> 01:15:37,860
+kita butuh warna ya Nah harus dicontek
+
+1715
+01:15:37,860 --> 01:15:40,710
+nih primer itu Hexa nya berapa kali ini
+
+1716
+01:15:40,710 --> 01:15:42,330
+kita gampang aja kasih Premier Ripa ya
+
+1717
+01:15:42,330 --> 01:15:44,410
+Merry gitu ya
+
+1718
+01:15:44,410 --> 01:15:47,320
+Ya santai aja boleh yang manapun ya Klik
+
+1719
+01:15:47,320 --> 01:15:51,460
+Kanan inspect nanti di sebelah bawah
+
+1720
+01:15:51,460 --> 01:15:56,770
+sini ada CSS nya cari yang Premier ini
+
+1721
+01:15:56,770 --> 01:16:01,330
+kopi aja ya ketemu primery copy balik
+
+1722
+01:16:01,330 --> 01:16:08,050
+kesini ganti warnanya jadi ya cari yang
+
+1723
+01:16:08,050 --> 01:16:13,210
+lain yang agak tipis ke bawah ini kali
+
+1724
+01:16:13,210 --> 01:16:19,420
+ya Oke kita copy kita Simpannya di sini
+
+1725
+01:16:19,420 --> 01:16:23,590
+dikontak jangan simpan diputar save kita
+
+1726
+01:16:23,590 --> 01:16:26,110
+kembali ke sini kita Refresh microsd
+
+1727
+01:16:26,110 --> 01:16:31,900
+dulu deh kita refresh nah ini kalau ada
+
+1728
+01:16:31,900 --> 01:16:36,240
+putihnya dibawahnya karena apa Karena
+
+1729
+01:16:36,240 --> 01:16:38,770
+Coba kita kasih pending ya Kita kasih
+
+1730
+01:16:38,770 --> 01:16:43,639
+pending pending untuk semua sisinya
+
+1731
+01:16:43,639 --> 01:16:47,749
+Hai nah sip opo atasnya jangan deh jadi
+
+1732
+01:16:47,749 --> 01:16:50,730
+padding padding-bottom aja
+
+1733
+01:16:50,730 --> 01:16:53,670
+Mbok jadi enggak terlalu mepet kek atau
+
+1734
+01:16:53,670 --> 01:16:57,239
+kita kasih 5 lah biar panjangan dikit
+
+1735
+01:16:57,239 --> 01:16:59,880
+nah oke sudah Mantap ya keren
+
+1736
+01:16:59,880 --> 01:17:01,800
+teman-teman gimana sampai sini ternyata
+
+1737
+01:17:01,800 --> 01:17:03,360
+sudah oke nih tapi belum selesai
+
+1738
+01:17:03,360 --> 01:17:05,760
+teman-teman saba saba kita mau perbaiki
+
+1739
+01:17:05,760 --> 01:17:08,340
+dua hal kecil tapi menurut saya menarik
+
+1740
+01:17:08,340 --> 01:17:10,320
+nih yang ditawarkan oleh bootstrap yang
+
+1741
+01:17:10,320 --> 01:17:12,989
+pertama saya mau ganti tulisan love ini
+
+1742
+01:17:12,989 --> 01:17:16,320
+sama icon hati biar lebih keren nah
+
+1743
+01:17:16,320 --> 01:17:18,960
+kebetulan bootstrap itu sekarang punya
+
+1744
+01:17:18,960 --> 01:17:21,239
+yang namanya icon bawaannya bootstrap
+
+1745
+01:17:21,239 --> 01:17:25,680
+Coba kalau kita search aja Icons ada
+
+1746
+01:17:25,680 --> 01:17:29,489
+bootstrap Icons Nah di sini kita bisa
+
+1747
+01:17:29,489 --> 01:17:31,980
+pilih yang inih learn more about
+
+1748
+01:17:31,980 --> 01:17:34,920
+bootstrap Icons jadi kita bisa pakai
+
+1749
+01:17:34,920 --> 01:17:36,900
+Icons buatannya bootstrap bukan lagi
+
+1750
+01:17:36,900 --> 01:17:39,330
+pakai Icons punya orang lain ya Klik
+
+1751
+01:17:39,330 --> 01:17:41,760
+nanti masuk ke sini nah disini kita bisa
+
+1752
+01:17:41,760 --> 01:17:44,340
+lihat ada banyak icon yang bisa kita
+
+1753
+01:17:44,340 --> 01:17:47,920
+pakai yang mau kita pakai yang hard
+
+1754
+01:17:47,920 --> 01:17:50,440
+Hai nah kan ada tuh ada dua meyakini
+
+1755
+01:17:50,440 --> 01:17:51,940
+bahwa ini Silahkan pilih yang mana ya
+
+1756
+01:17:51,940 --> 01:17:54,100
+Tapi sebelumnya kita cari tahu Cara
+
+1757
+01:17:54,100 --> 01:17:57,460
+pakainya gimana Cara pakainya kita bisa
+
+1758
+01:17:57,460 --> 01:18:01,179
+pakai NPM kita bisa download manual atau
+
+1759
+01:18:01,179 --> 01:18:03,340
+kita bisa pakai yang cdn ini kayak kita
+
+1760
+01:18:03,340 --> 01:18:05,290
+akan pakaian cdn content delivery
+
+1761
+01:18:05,290 --> 01:18:07,780
+Network supplied icon ya kita akses
+
+1762
+01:18:07,780 --> 01:18:09,880
+secara online dari kalian copy aja yang
+
+1763
+01:18:09,880 --> 01:18:12,250
+ini clipboard logo Copy to Clipboard ya
+
+1764
+01:18:12,250 --> 01:18:16,300
+klik terus kita simpan di atas sebelum
+
+1765
+01:18:16,300 --> 01:18:21,460
+CSS kita Nah di sini kita simpan sini
+
+1766
+01:18:21,460 --> 01:18:26,630
+kita kasih nama bootstrap icon
+
+1767
+01:18:26,630 --> 01:18:29,330
+Ya udah simpen di bawah nah sekarang
+
+1768
+01:18:29,330 --> 01:18:32,270
+kita bisa pakai Cara pakainya gimana Pak
+
+1769
+01:18:32,270 --> 01:18:34,610
+kita lihat misalnya saya mau pilih yang
+
+1770
+01:18:34,610 --> 01:18:38,450
+ini Klik aja nanti dikasih tahu nih cara
+
+1771
+01:18:38,450 --> 01:18:43,190
+makenya gimana cukup Tuliskan tq lalu
+
+1772
+01:18:43,190 --> 01:18:46,480
+kita kasih nama kelasnya by harfield Oke
+
+1773
+01:18:46,480 --> 01:18:49,910
+nanti jadi gini tuh bagus kan kita copy
+
+1774
+01:18:49,910 --> 01:18:56,780
+kita ganti katalognya hapus kita simpan
+
+1775
+01:18:56,780 --> 01:19:01,460
+di sini kita save dan lihat nah kan kita
+
+1776
+01:19:01,460 --> 01:19:04,250
+ganti jadi warna merah ya caranya kita
+
+1777
+01:19:04,250 --> 01:19:07,340
+ganti aja warna tulisannya kan pake ntu
+
+1778
+01:19:07,340 --> 01:19:10,070
+sebenarnya tulisannya Jadi kita cukup
+
+1779
+01:19:10,070 --> 01:19:15,200
+kasih text-danger mau ganti warna lain
+
+1780
+01:19:15,200 --> 01:19:18,580
+Silahkan mengganti icon lain Silahkan
+
+1781
+01:19:18,580 --> 01:19:21,980
+akan bagus ya itu udah walaupun simpel
+
+1782
+01:19:21,980 --> 01:19:24,440
+tapi kayaknya nambahin ide nambah-nambah
+
+1783
+01:19:24,440 --> 01:19:26,640
+keren dan yang terakhir kita
+
+1784
+01:19:26,640 --> 01:19:29,130
+benerin supaya kalau misalkan kita Klik
+
+1785
+01:19:29,130 --> 01:19:31,110
+navigasinya langsung pindah ke bawah
+
+1786
+01:19:31,110 --> 01:19:33,570
+Jangan Saya mau about aku ajak ke sini
+
+1787
+01:19:33,570 --> 01:19:36,630
+terus Project loncat lagi ke project Oh
+
+1788
+01:19:36,630 --> 01:19:38,910
+dan satu lagi saya mau bikin navigasinya
+
+1789
+01:19:38,910 --> 01:19:41,250
+itu nempel ini kalau saya Scroll kebawah
+
+1790
+01:19:41,250 --> 01:19:44,100
+navigasinya itu diam terus di atas oke
+
+1791
+01:19:44,100 --> 01:19:47,160
+ya caranya gimana gampang Sekarang kita
+
+1792
+01:19:47,160 --> 01:19:49,260
+balik ke navigasi dulu kita harus tulis
+
+1793
+01:19:49,260 --> 01:19:53,970
+disini navbar.apk fix Ya kausalya atau
+
+1794
+01:19:53,970 --> 01:19:57,170
+fix navbar coba kita contek lagi di sini
+
+1795
+01:19:57,170 --> 01:20:01,530
+kita ke dokumentasi kita tulis navbar
+
+1796
+01:20:01,530 --> 01:20:06,830
+kita lihat di placement klik placement
+
+1797
+01:20:06,830 --> 01:20:09,930
+nah ini ada fixed-top Oh namanya
+
+1798
+01:20:09,930 --> 01:20:12,120
+fixed-top oke oke karena bisa kita
+
+1799
+01:20:12,120 --> 01:20:13,800
+simpan dibawa juga cuman agak aneh sih
+
+1800
+01:20:13,800 --> 01:20:15,870
+kalau dibawa Victor teman-teman bukan
+
+1801
+01:20:15,870 --> 01:20:20,880
+navbar-fixed-top I fixed-top oke nah
+
+1802
+01:20:20,880 --> 01:20:23,610
+cuman kau di kita kasih fixed-top dia
+
+1803
+01:20:23,610 --> 01:20:26,650
+naik ke atas gambar tuh
+
+1804
+01:20:26,650 --> 01:20:31,360
+ini kondisi proliant ML Keren kan kita
+
+1805
+01:20:31,360 --> 01:20:33,310
+benerin dulu supaya dia turun caranya
+
+1806
+01:20:33,310 --> 01:20:36,120
+kita kasih pending aja untuk besi
+
+1807
+01:20:36,120 --> 01:20:39,850
+jumbotron Oh udah padahal ya batin
+
+1808
+01:20:39,850 --> 01:20:43,980
+tambahin dong kekasih berapa lima rem
+
+1809
+01:20:43,980 --> 01:20:50,949
+nah kurang a606 rem nah oke Sip sudah
+
+1810
+01:20:50,949 --> 01:20:55,330
+oke nempel tuh ya kita bener ini caranya
+
+1811
+01:20:55,330 --> 01:20:58,030
+yang pertama kita harus kasih dulu di
+
+1812
+01:20:58,030 --> 01:21:01,989
+navbar nya karet nah reffnya ini harus
+
+1813
+01:21:01,989 --> 01:21:05,020
+nyangkut ke ID yang mau kita tuju saya
+
+1814
+01:21:05,020 --> 01:21:07,510
+kalau kita klik home dia mau marah
+
+1815
+01:21:07,510 --> 01:21:10,330
+kemana misalkan kita kasih Hong berarti
+
+1816
+01:21:10,330 --> 01:21:13,120
+harus ada elemen yang kita kasih id-home
+
+1817
+01:21:13,120 --> 01:21:15,460
+supaya nyangkut ke situ nah saya mau
+
+1818
+01:21:15,460 --> 01:21:19,179
+bikin dia nempel ke bodi kan begitu
+
+1819
+01:21:19,179 --> 01:21:21,330
+paling atas jadi disini saya kasih
+
+1820
+01:21:21,330 --> 01:21:26,630
+id-home sehingga kalau saya lagi
+
+1821
+01:21:26,630 --> 01:21:30,199
+kau sini ya kosek klik dari freestyle ya
+
+1822
+01:21:30,199 --> 01:21:34,340
+Jose klik otomatis ngescroll dan Scroll
+
+1823
+01:21:34,340 --> 01:21:36,560
+yang sudah smooth teman-teman ini
+
+1824
+01:21:36,560 --> 01:21:38,780
+anaknya pakai busted 5 tinggal kita
+
+1825
+01:21:38,780 --> 01:21:41,900
+kasih untuk semuanya about kasih nama
+
+1826
+01:21:41,900 --> 01:21:46,570
+about Project kita kasih nama Project
+
+1827
+01:21:46,570 --> 01:21:50,750
+kontak kita kasih nama kontak dan ini
+
+1828
+01:21:50,750 --> 01:21:52,100
+kita udah punya id-nya semuanya
+
+1829
+01:21:52,100 --> 01:21:56,659
+teman-teman about ada di udah makanya
+
+1830
+01:21:56,659 --> 01:22:01,969
+tadi kita kasih nama ID Project udah dan
+
+1831
+01:22:01,969 --> 01:22:06,580
+terakhir kontak oke di konser yg fresh
+
+1832
+01:22:06,580 --> 01:22:10,000
+mudah Tuh bisa loncat-loncat Oh tapi dia
+
+1833
+01:22:10,000 --> 01:22:14,929
+Ngumpet ya karena nastarnya fix berarti
+
+1834
+01:22:14,929 --> 01:22:18,110
+harus kita kasih padding-top juga ini
+
+1835
+01:22:18,110 --> 01:22:21,170
+untuk semua section nya tapi disini kita
+
+1836
+01:22:21,170 --> 01:22:25,010
+kasih di CSS saya biar satu kali Nulis
+
+1837
+01:22:25,010 --> 01:22:26,639
+kena semua
+
+1838
+01:22:26,639 --> 01:22:30,959
+dan wedding top kita kasih berapa lima
+
+1839
+01:22:30,959 --> 01:22:33,169
+rem
+
+1840
+01:22:33,550 --> 01:22:37,329
+Hai terlalu besar enggak Nah kan
+
+1841
+01:22:37,329 --> 01:22:42,510
+sekarang pastu woi keren kan teman-teman
+
+1842
+01:22:42,510 --> 01:22:46,270
+sudah deh ini sudah keren dan kalau
+
+1843
+01:22:46,270 --> 01:22:48,790
+misalkan kita lihat di mobile version
+
+1844
+01:22:48,790 --> 01:22:51,969
+terbuka untuk misalkan iPhone X terlihat
+
+1845
+01:22:51,969 --> 01:22:56,409
+rapi banget enggak ada yang ngaco oke
+
+1846
+01:22:56,409 --> 01:23:00,010
+tinggal kalian modifikasi dengan data
+
+1847
+01:23:00,010 --> 01:23:02,559
+kalian diri kalian atau perusahaan
+
+1848
+01:23:02,559 --> 01:23:04,960
+kalian atau toko online kalian atau
+
+1849
+01:23:04,960 --> 01:23:07,809
+usaha kalian silahkan perbaiki sampai
+
+1850
+01:23:07,809 --> 01:23:10,329
+sebagus mungkin jadi mungkin itu untuk
+
+1851
+01:23:10,329 --> 01:23:12,639
+Website portofolio kita menggunakan
+
+1852
+01:23:12,639 --> 01:23:14,860
+bootstrap versi 15 mudahan kalian suka
+
+1853
+01:23:14,860 --> 01:23:17,139
+Oke teman-teman jadi itu videonya ya
+
+1854
+01:23:17,139 --> 01:23:18,610
+Gimana menurut teman-teman mudah-mudahan
+
+1855
+01:23:18,610 --> 01:23:20,770
+teman-teman suka dengan hasil yang sudah
+
+1856
+01:23:20,770 --> 01:23:22,750
+kita buat Rizki lagi kita sudah berhasil
+
+1857
+01:23:22,750 --> 01:23:25,000
+membuat sebuah website portfolio yang
+
+1858
+01:23:25,000 --> 01:23:27,579
+sederhana tapi utuh Nah sekarang tinggal
+
+1859
+01:23:27,579 --> 01:23:30,369
+tugas teman-teman semua modifikasi agar
+
+1860
+01:23:30,369 --> 01:23:32,829
+website portofolionya semakin keren lagi
+
+1861
+01:23:32,829 --> 01:23:33,530
+kalau
+
+1862
+01:23:33,530 --> 01:23:35,870
+size silahkan boleh teman-teman pamerin
+
+1863
+01:23:35,870 --> 01:23:37,580
+kalian boleh teks saya di sosial
+
+1864
+01:23:37,580 --> 01:23:39,620
+medianya terus pamerin website yang udah
+
+1865
+01:23:39,620 --> 01:23:41,750
+kalian buat boleh lewat Twitter atau
+
+1866
+01:23:41,750 --> 01:23:44,420
+lewat Instagram kalian bisa cek aja diet
+
+1867
+01:23:44,420 --> 01:23:46,820
+sandhika Galih atau kalian bisa pamerin
+
+1868
+01:23:46,820 --> 01:23:49,130
+projectnya melalui server discord kita
+
+1869
+01:23:49,130 --> 01:23:51,170
+yang linknya kalian bisa cek di
+
+1870
+01:23:51,170 --> 01:23:52,910
+deskripsi video ini dan di video
+
+1871
+01:23:52,910 --> 01:23:54,410
+Berikutnya ini bakal lebih seru lagi
+
+1872
+01:23:54,410 --> 01:23:56,810
+ngoding bareng kita-kita akan coba untuk
+
+1873
+01:23:56,810 --> 01:23:58,850
+mengupload website kita yang udah kita
+
+1874
+01:23:58,850 --> 01:24:01,340
+buat ini ke internet supaya bukan hanya
+
+1875
+01:24:01,340 --> 01:24:03,200
+kalian aja yang bisa lihat tapi orang
+
+1876
+01:24:03,200 --> 01:24:05,180
+lain juga bisa lihat dengan mengunjungi
+
+1877
+01:24:05,180 --> 01:24:07,280
+juara websitenya dan seluruh akhirnya
+
+1878
+01:24:07,280 --> 01:24:08,810
+videonya Kembali saya ucapin terima
+
+1879
+01:24:08,810 --> 01:24:11,240
+kasih kepada sponsor kita untuk video
+
+1880
+01:24:11,240 --> 01:24:13,640
+kita kali ini yaitu hacktivate jadi buat
+
+1881
+01:24:13,640 --> 01:24:16,160
+kalian yang ingin menjadi seorang Polsek
+
+1882
+01:24:16,160 --> 01:24:18,290
+developer handal khususnya javascript
+
+1883
+01:24:18,290 --> 01:24:19,940
+kalian bisa gabung di program yang
+
+1884
+01:24:19,940 --> 01:24:21,890
+diselenggarakan oleh activate ada dua
+
+1885
+01:24:21,890 --> 01:24:23,630
+program yang bisa kalian ikutin ada
+
+1886
+01:24:23,630 --> 01:24:26,630
+vostec imersif dan Polsek Flex kalian
+
+1887
+01:24:26,630 --> 01:24:29,150
+bisa dapetin diskon sebesar 500.000
+
+1888
+01:24:29,150 --> 01:24:30,860
+kalau kalian daftar programnya
+
+1889
+01:24:30,860 --> 01:24:33,020
+hacktivate dengan memberikan kode kupon
+
+1890
+01:24:33,020 --> 01:24:33,540
+nya ya
+
+1891
+01:24:33,540 --> 01:24:36,840
+USG 500 dan gak cuman itu kalau kalian
+
+1892
+01:24:36,840 --> 01:24:38,790
+nanti udah daftar programnya Kalian juga
+
+1893
+01:24:38,790 --> 01:24:43,200
+akan dapetin akses gratis ke 165 course
+
+1894
+01:24:43,200 --> 01:24:45,900
+online yang ada di platform kode Baihaqi
+
+1895
+01:24:45,900 --> 01:24:47,760
+fight selama satu tahun yang kalau
+
+1896
+01:24:47,760 --> 01:24:50,010
+kalian beli semua khasnya itu kalau
+
+1897
+01:24:50,010 --> 01:24:52,350
+ditotal itu seharga sekitar 60 juta
+
+1898
+01:24:52,350 --> 01:24:53,730
+rupiah ya teman-teman Jadi tunggu
+
+1899
+01:24:53,730 --> 01:24:55,770
+apalagi segera gabung untuk belajar di
+
+1900
+01:24:55,770 --> 01:24:59,430
+hacktiv8 ini hanya berlaku sampai bulan
+
+1901
+01:24:59,430 --> 01:25:02,820
+Maret 2021 silahkan cek link yang ada di
+
+1902
+01:25:02,820 --> 01:25:05,040
+deskripsi untuk informasi lebih lanjut
+
+1903
+01:25:05,040 --> 01:25:06,720
+Oke teman-teman jadi itu untuk modding
+
+1904
+01:25:06,720 --> 01:25:08,520
+bareng kita kali ini sampai ketemu lagi
+
+1905
+01:25:08,520 --> 01:25:10,560
+di ngoding bareng berikutnya Sadiqah
+
+1906
+01:25:10,560 --> 01:25:12,780
+gali pamit dan seperti biasa jangan lupa
+
+1907
+01:25:12,780 --> 01:25:14,550
+titik koma lalu
+
+1908
+01:25:14,550 --> 01:25:27,220
+[Musik]
+
